@@ -7,6 +7,7 @@ related topics:
   - "[[Cyclic group]]"
   - "[[Order]]"
   - "[[Greatest Common Divisor|GCD]]"
+mathLink: $\langle a^i \rangle = \langle a^j \rangle\iff\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$
 ---
 For a group $G$ and $a\in G$
 - $\langle a^i \rangle = \langle a^j \rangle$ if and only if $\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$.
