@@ -5,6 +5,7 @@ tags:
 related topics:
   - "[[Cyclic group]]"
   - "[[Greatest Common Divisor|GCD]]"
+mathLink: $\langle a \rangle = \langle a^i \rangle \iff \operatorname{gcd}(|a|,i) = 1$
 ---
 For a group $G$ and $a\in G$
 - $\langle a \rangle = \langle a^i \rangle \iff \operatorname{gcd}(|a|,i) = 1$
