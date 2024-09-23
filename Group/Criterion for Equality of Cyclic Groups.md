@@ -2,7 +2,6 @@
 tags:
   - theorem
   - abstract_algebra
-  - to_do
 related topics:
   - "[[Cyclic group]]"
   - "[[Order]]"
