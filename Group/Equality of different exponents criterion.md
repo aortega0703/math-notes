@@ -31,7 +31,7 @@ For a [[Group]] $G$, $a\in G$, and $i,j\in \mathbb{Z}$:
 				a^{i-j} &= e
 			\end{align}
 		$$
-		By [[Finite order element cycles]], $n|i-j$.
+		By [[Order divides exponent]], $n|i-j$.
 	- $\impliedby$:
 		Let $|a| = n$ and $i-j = kn$ for some $k\in \mathbb{Z}$, then by [[Order divides exponent]]$$
 			\begin{align}

@@ -2,7 +2,6 @@
 tags:
   - theorem
   - number_theory
-  - to_do
 related topics:
   - "[[Division|Modulo]]"
 ---

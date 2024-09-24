@@ -9,7 +9,7 @@ related topics:
 For a cyclic group $\langle a \rangle = G$
 - If $H\leq G$ then $H$ is cyclic.
 - If $H\leq G$ then $|H|$ divides $|G|$.
-- For each divisor $k$ of $|G|$, there exists exactly one subgroup of $G$ of order $k$, namely $\langle a^{|a|/k}\rangle$.
+- For each positive divisor $k$ of $|G|$, there exists exactly one subgroup of $G$ of order $k$, namely $\langle a^{|a|/k}\rangle$.
 ##### Proof:
 - If $H\leq G$ then $H$ is cyclic:
 	$G$ is cyclic every element is of the form $a^i$ for some $i$. Let $S=\{i:a^i \in H,\ i>0\}$. If $S=\varnothing$ then $S=\{e\}$ which is cyclic, if $S\neq \varnothing$ by [[Well ordering principle]] let $b=a^{\operatorname{min}(S)}\in H$.
