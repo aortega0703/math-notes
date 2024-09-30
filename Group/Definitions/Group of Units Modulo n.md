@@ -1,7 +1,7 @@
 ---
 tags:
   - abstract_algebra
-  - theorem
+  - definition
 related topics:
   - "[[Group]]"
 aliases:

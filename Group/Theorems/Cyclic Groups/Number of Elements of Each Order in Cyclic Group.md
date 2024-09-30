@@ -5,6 +5,7 @@ tags:
 related topics:
   - "[[Cyclic group]]"
   - "[[Euler's Phi Function|Euler's Totient Function]]"
+  - "[[Order]]"
 ---
 For a cyclic group $\langle a \rangle$ and $d\in\mathbb{Z}$ a positive divisor of $|\langle a \rangle|$, the number of elements of $\langle a \rangle$ with order $d$ is $\varphi(d)$.
 ##### Proof:
