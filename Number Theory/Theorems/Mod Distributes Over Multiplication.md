@@ -4,6 +4,7 @@ tags:
   - number_theory
 related topics:
   - "[[Division|Modulo]]"
+mathLink: $ab\mod n = (a\mod n)(b\mod n)\mod n$
 ---
 For $a,b,(n>0)\in\mathbb{Z}$, $ab\mod n = (a\mod n)(b\mod n)\mod n$.
 ##### Proof:
