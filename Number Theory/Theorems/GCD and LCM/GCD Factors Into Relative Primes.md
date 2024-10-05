@@ -5,6 +5,7 @@ tags:
 related topics:
   - "[[Greatest Common Divisor|GCD]]"
   - "[[Greatest Common Divisor|Relative Prime]]"
+mathLink: $a=a'\gcd(a,b),\ b=b'\gcd(a,b) \implies \gcd(a',b')=1$
 ---
 For $a,b\in \mathbb{Z}$, $a\ /\gcd(a,b)$ and $b\ /\gcd(a,b)$ are relative primes.
 ##### Proof:
