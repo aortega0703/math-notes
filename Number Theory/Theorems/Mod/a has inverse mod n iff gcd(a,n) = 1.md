@@ -16,7 +16,7 @@ For $a,(n>0)\in\mathbb{Z}$, $ax\equiv 1$ has a solution for $x$ if and only if $
 		ax - qn &= 1\\
 		ax + n(-q) &= 1
 	\end{align}
-	$$So by [[Linear combination equals 1]] $a$ and $n$ are relative primes.
+	$$So by [[Relative Primes Iff Linear Combination Equals 1]] $a$ and $n$ are relative primes.
 - $\impliedby$:
 	By definition$$
 	\begin{align}

@@ -9,7 +9,7 @@ aliases:
 ---
 For $a,b,p\in\mathbb{Z}$, if $p$ is a prime that divides $ab$ then $p|a$ or $p|b$.
 ##### Proof:
-It is given that $ab=kp$ for some $k\in\mathbb{Z}$. Suppose $p$ does not divide $a$, then by [[Linear combination equals 1]]$$
+It is given that $ab=kp$ for some $k\in\mathbb{Z}$. Suppose $p$ does not divide $a$, then by [[Relative Primes Iff Linear Combination Equals 1]]$$
 \begin{align}
 	1 &= ps + at\quad\text{for some $s,t\in\mathbb{Z}$}\\
 	b &= b(ps + at)\\

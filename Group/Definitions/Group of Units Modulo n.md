@@ -11,7 +11,7 @@ For $0<n\in \mathbb{Z}$, $U(n)=\{0<m<n\in\mathbb{Z}:\gcd(m,n)=1\}$ is a group un
 ##### Proof:
 For $U(n)$ to be a group it has to have
 - Closure under multiplication:
-	Let $a,b\in U(n)$, by [[Linear combination equals 1]]
+	Let $a,b\in U(n)$, by [[Relative Primes Iff Linear Combination Equals 1]]
 	$1=as+nt=bs'+nt'$ for some $s,s',t,t'\in\mathbb{Z}$. Then$$
 	\begin{align}
 		\begin{aligned}
@@ -33,7 +33,7 @@ For $U(n)$ to be a group it has to have
 - Identity:
 	$\gcd(1,n) = 1$ and $1a = a$, so $1\in U(n)$ is the identity.
 - Inverses:
-	Let $a\in U(n)$, so by [[Linear combination equals 1]]$$
+	Let $a\in U(n)$, so by [[Relative Primes Iff Linear Combination Equals 1]]$$
 	\begin{align}
 		1&=as+nt\quad\text{for some $s,t\in\mathbb{Z}$}\\
 		1-nt &= as\\
