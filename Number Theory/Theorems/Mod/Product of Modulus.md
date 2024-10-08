@@ -5,6 +5,7 @@ tags:
 related topics:
   - "[[Division|Modulo]]"
   - "[[Greatest Common Divisor|GCD]]"
+mathLink: $a\equiv b\ (\operatorname{mod}st)\implies a\equiv b\ (\operatorname{mod}\ s,t)$
 ---
 For $a,b,(s,t>0)\in\mathbb{Z}$
 - If $a\equiv b\ (\operatorname{mod}st)$, then $a\equiv b\ (\operatorname{mod}s)$ and $a\equiv b\ (\operatorname{mod}t)$.
