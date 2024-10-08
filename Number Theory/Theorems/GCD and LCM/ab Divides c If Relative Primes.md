@@ -6,7 +6,7 @@ related topics:
   - "[[Divides]]"
   - "[[Greatest Common Divisor|Relative Prime]]"
 ---
-For $a,b,c\in\mathbb{Z}$, if $a$ and $b$ divide $c$, and $a,b$ are relatively prime, $ab$ divides $c$.
+For $a,b,c\in\mathbb{Z}$, if $a$ and $b$ divide $c$, and $a,b$ are relatively prime, then $ab$ divides $c$.
 ##### Proof:
 By definition let $c=k_a a= k_b b$ and by [[Division algorithm]] $c = q(ab) + r$ for some $q,(0\leq r < ab)\in\mathbb{Z}$, then:$$
 	\begin{align}
