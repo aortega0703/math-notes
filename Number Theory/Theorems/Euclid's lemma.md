@@ -5,7 +5,8 @@ tags:
 related topics:
   - "[[Divides]]"
 aliases:
-  - $p|ab \implies p|a \lor p|b$
+  - p Divides Product Implies p Divides Factors
+mathLink: $p|ab \implies p|a \lor p|b$
 ---
 For $a,b,p\in\mathbb{Z}$, if $p$ is a prime that divides $ab$ then $p|a$ or $p|b$.
 ##### Proof:
