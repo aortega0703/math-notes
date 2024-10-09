@@ -4,6 +4,7 @@ tags:
   - number_theory
 related topics:
   - "[[Divides]]"
+  - "[[Divides|Prime]]"
 aliases:
   - p Divides Product Implies p Divides Factors
 mathLink: $p|ab \implies p|a \lor p|b$
