@@ -1,6 +1,7 @@
 ---
 tags:
   - definition
+  - set_theory
 related topics:
   - "[[Set]]"
 ---
