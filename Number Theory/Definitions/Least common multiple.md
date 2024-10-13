@@ -3,7 +3,7 @@ tags:
   - definition
   - number_theory
 related topics:
-  - "[[Divides]]"
+  - "[[Divisibility]]"
 aliases:
   - LCM
 ---

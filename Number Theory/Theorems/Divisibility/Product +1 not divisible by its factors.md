@@ -3,7 +3,7 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Divides]]"
+  - "[[Divisibility]]"
 ---
 For $p_1,p_2,\dots,p_n>1\in\mathbb{Z}$, the number $p_1 p_2\dots p_n + 1$ is not divisible by any $p_i$.
 ##### Proof:

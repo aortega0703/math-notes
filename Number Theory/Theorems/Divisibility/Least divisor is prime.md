@@ -3,7 +3,7 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Divides]]"
+  - "[[Divisibility]]"
 ---
 For any $n\in \mathbb{Z}$, the smallest $d>1$ that divides $n$ is prime.
 ##### Proof:

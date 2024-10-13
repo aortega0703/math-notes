@@ -3,7 +3,7 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Divides|Prime]]"
+  - "[[Divisibility|Prime]]"
 ---
 There are infinitely many primes.
 ##### Proof:

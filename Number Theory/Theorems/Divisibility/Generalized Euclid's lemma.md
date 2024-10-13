@@ -4,8 +4,8 @@ tags:
   - number_theory
 related topics:
   - "[[Euclid's lemma]]"
-  - "[[Divides]]"
-  - "[[Divides|Prime]]"
+  - "[[Divisibility]]"
+  - "[[Divisibility|Prime]]"
 ---
 If $p$ is prime and $p$ divides $a_1 a_2 \dots a_n$, then $p$ divides $a_i$ for some $i$.
 ##### Proof:

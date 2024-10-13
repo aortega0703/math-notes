@@ -3,8 +3,8 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Divides]]"
-  - "[[Divides|Prime]]"
+  - "[[Divisibility]]"
+  - "[[Divisibility|Prime]]"
 ---
 Every integer $n>1$ is a prime or a product of primes. This product is unique save for the order of its factors.
 ##### Proof:

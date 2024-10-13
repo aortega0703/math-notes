@@ -3,7 +3,7 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Divides]]"
+  - "[[Divisibility]]"
   - "[[Greatest Common Divisor|Relative Prime]]"
 ---
 For $a,b,c\in\mathbb{Z}$, if $a$ and $b$ divide $c$, and $a,b$ are relatively prime, then $ab$ divides $c$.

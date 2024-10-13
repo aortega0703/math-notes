@@ -3,7 +3,7 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Divides|Prime]]"
+  - "[[Divisibility|Prime]]"
 ---
 There is no maximum prime gap. That is, the distance between two consecutive primes can be arbitrarily large.
 ##### Proof:

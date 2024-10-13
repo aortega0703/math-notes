@@ -4,7 +4,7 @@ tags:
   - number_theory
 related topics:
   - "[[Integers]]"
-  - "[[Divides]]"
+  - "[[Divisibility]]"
 aliases:
   - GCD
   - Relative Prime
