@@ -8,6 +8,8 @@ aliases:
   - Remainder
   - Quotient
   - Modulo
+reference:
+  - "Gallian, J A. Contemporary\r Abstract Algebra"
 ---
 By [[Division algorithm]] for any $a,b\in \mathbb{Z}$ with $b>0$ there exist unique $q,r$ such that $a=qb+r$ with $0\leq r < b$.
 - $q$ is called the _quotient_ of $a$ divided $b$.
