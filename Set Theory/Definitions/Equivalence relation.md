@@ -7,6 +7,8 @@ related topics:
   - "[[Relation]]"
 aliases:
   - Equivalence class
+reference:
+  - "Gallian, J A. Contemporary\r Abstract Algebra"
 ---
 An _equivalence relation_ $R$ on a [[Set]] $S$ is a [[Relation]] that satisfies (for $x,y,z\in S$)
 - Reflexivity:$$xRx$$

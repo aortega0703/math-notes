@@ -4,6 +4,8 @@ related topics:
 tags:
   - definition
   - abstract_algebra
+reference:
+  - "Gallian, J A. Contemporary\r Abstract Algebra"
 ---
 Let $G$ be a [[Group]] and $g\in G$, then
 - Of a group: 

@@ -5,6 +5,8 @@ related topics:
 tags:
   - definition
   - abstract_algebra
+reference:
+  - "Gallian, J A. Contemporary\r Abstract Algebra"
 ---
 A group is a [[Set]] $G$ with a [[Binary Operation]] $\cdot: G\times G\to G$ that has
 - Associativity: for $a,b,c \in G$$$

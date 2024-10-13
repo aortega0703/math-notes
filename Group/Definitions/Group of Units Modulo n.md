@@ -6,6 +6,8 @@ related topics:
   - "[[Group]]"
 aliases:
   - Multiplicative Group of Integers Modulo n
+reference:
+  - "Gallian, J A. Contemporary\r Abstract Algebra"
 ---
 For $0<n\in \mathbb{Z}$, $U(n)=\{0<m<n\in\mathbb{Z}:\gcd(m,n)=1\}$ is a group under multiplication modulo $n$. This is called the group of units modulo $n$ or the multiplicative group of integers modulo $n$, also denoted by $(\mathbb{Z}/n\mathbb{Z})^\times$.
 ##### Proof:
