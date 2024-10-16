@@ -2,6 +2,7 @@
 tags:
   - definition
   - set_theory
+  - needs_details
 related topics:
   - "[[Set]]"
 reference:
