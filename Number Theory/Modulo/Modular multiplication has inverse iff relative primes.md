@@ -7,7 +7,7 @@ related topics:
   - "[[Greatest Common Divisor|GCD]]"
 mathLink: $ax\equiv 1\ \operatorname{mod}n \iff \gcd(a,n)=1$
 ---
-For $a,(n>0)\in\mathbb{Z}$, $ax\equiv 1$ has a solution for $x$ if and only if $a$ and $n$ are relative primes.
+For $a,n\in\mathbb{Z}$, $ax\equiv 1\ (\operatorname{mod}\ n)$ has a solution for $x$ if and only if $a$ and $n$ are [[Greatest Common Divisor|Relative Primes]].
 ##### Proof:
 - $\implies$:
 	By definition$$

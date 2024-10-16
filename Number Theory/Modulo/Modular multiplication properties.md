@@ -4,6 +4,7 @@ tags:
   - number_theory
 related topics:
   - "[[Congruence under modulo|Congruence mod n]]"
+  - "[[Modular multiplication]]"
 ---
 In [[Integers modulo n is a group|$\mathbb{Z}/n$]] [[Modular multiplication]] has the following properties
 - Commutativity.

@@ -5,6 +5,7 @@ tags:
 related topics:
   - "[[Congruence under modulo|Congruence mod n]]"
   - "[[Division|Modulo]]"
+mathLink: $a\equiv b\ (\operatorname{mod}\ n)\iff a\ \operatorname{mod}\ n = b\ \operatorname{mod} n$
 ---
 For $a,b,n\in\mathbb{Z}$$$
 	a\equiv b\ (\operatorname{mod}\ n)

@@ -31,7 +31,7 @@ For $U(n)$ to be a group it has to have
 	\end{align}
 	$$So $\gcd(ab,n) = 1$ and by [[Modulo Preserves GCD]] $\gcd(ab\ \operatorname{mod} n,n) = 1$, so $ab \ \operatorname{mod} n \in U(n)$.
 - Associativity:
-	By [[Modular Multiplication is Associative]].
+	By [[Modular multiplication]].
 - Identity:
 	$\gcd(1,n) = 1$ and $1a = a$, so $1\in U(n)$ is the identity.
 - Inverses:

@@ -3,10 +3,9 @@ tags:
   - theorem
   - number_theory
 related topics:
-  - "[[Congruence under modulo|Congruence mod n]]"
   - "[[Equivalence relation]]"
-aliases:
-  - Congruence mod n is equivalence relation
+  - "[[Congruence under modulo]]"
+mathLink: $\equiv_n$ is equivalence relation
 ---
 For $n\in\mathbb{Z}$, [[Congruence under modulo|Congruence mod n]] $n$ is an [[Equivalence relation]].
 ##### Proof:

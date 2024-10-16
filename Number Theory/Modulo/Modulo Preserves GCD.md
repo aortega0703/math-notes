@@ -5,9 +5,11 @@ tags:
 related topics:
   - "[[Greatest Common Divisor|GCD]]"
   - "[[Division|Modulo]]"
-mathLink: $a = b\ (\operatorname{mod} n)\implies\gcd(a,n) = \gcd(b,n)$
+mathLink: $\gcd(a,n) = \gcd(a\ \operatorname{mod}\ n,\ n)$
 ---
-For $a,b,(n>0)\in\mathbb{Z}$, if $a = b\ (\operatorname{mod} n)$ then $\gcd(a,n) = \gcd(b,n)$.
+For $a,n\in\mathbb{Z}$$$
+\gcd(a,n) = \gcd(a\ \operatorname{mod}\ n,\ n)
+$$
 ##### Proof:
 By [[Division algorithm]], $a = qn + b$ for some $q\in\mathbb{Z}$
 - $\gcd(b,n) \leq \gcd(a,n)$:$$

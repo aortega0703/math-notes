@@ -4,6 +4,7 @@ tags:
   - number_theory
 related topics:
   - "[[Congruence under modulo|Congruence mod n]]"
+  - "[[Modular addition]]"
 ---
 In [[Integers modulo n is a group|$\mathbb{Z}/n$]] [[Modular addition]] has the following properties
 - Commutativity.
