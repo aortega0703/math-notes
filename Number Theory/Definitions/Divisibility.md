@@ -8,7 +8,7 @@ aliases:
   - Prime
   - Divisor
 reference:
-  - "Gallian, J A. Contemporary\r Abstract Algebra"
+  - Gallian, J. A. Contemporary Abstract Algebra
 ---
 For $s,t\in\mathbb{Z}$ with $t\neq 0$
 - If $s=td$ for some $d\in\mathbb{Z}$, then $t$ _divides_ $s$ (denoted $t|s$) and $s$ is a _multiple_ of $t$.

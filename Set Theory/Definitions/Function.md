@@ -10,7 +10,7 @@ aliases:
   - Image
   - Function composition
 reference:
-  - "Gallian, J A. Contemporary\r Abstract Algebra"
+  - "Gallian, J. A. Contemporary\r Abstract Algebra"
 ---
 For sets $A,B$
 - A function $f:A\to B$ is a rule that assigns to each $a\in A$ exactly one $b\in B$ (in notation $f(a)=b$).
