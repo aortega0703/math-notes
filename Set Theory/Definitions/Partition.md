@@ -8,6 +8,13 @@ related topics:
 reference:
   - "Gallian, J A. Contemporary\r Abstract Algebra"
 ---
-- A _partition_ of a [[Set]] $S$ is a collection of non-empty disjoint subsets of $S$ whose union is $S$. 
+A _partition_ of a [[Set]] $S$ is a collection $P$ such that its elements
+- Nonempty subsets of $S$:
+	For all $p\in P$, $p\in P\implies p\subseteq S\land p\neq \varnothing$.
+- Cover $S$:
+	$\displaystyle\bigcup_{p\in P} p = S$ 
+- Are disjoint:
+	For all $p,q\in P$, $p\cap q \neq \varnothing \implies p=q$
+---
 - The sets in a partition receive the name of _cells_. 
 - The cell containing $s$ is denoted by $\overline{s}$.
