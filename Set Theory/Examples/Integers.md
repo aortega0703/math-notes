@@ -6,7 +6,7 @@ tags:
 related topics:
   - "[[Set]]"
 reference:
-  - "Gallian, J. A. Contemporary\r Abstract Algebra"
+  - "Gallian, J. A. Contemporary Abstract Algebra"
 ---
 - The [[Set]] of all integers is denoted by $\mathbb{Z}$[^1].
 - The [[Set]] of all positive integers is denoted by $\mathbb{Z}^+$.

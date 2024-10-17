@@ -7,7 +7,7 @@ related topics:
 aliases:
   - One-to-one
 reference:
-  - "Gallian, J. A. Contemporary\r Abstract Algebra"
+  - "Gallian, J. A. Contemporary Abstract Algebra"
 ---
 For a function $f:A\to B$
 - $f$ is _injective_ if $f(a) = f(a') \implies a=a'$ for all $a\in A$.

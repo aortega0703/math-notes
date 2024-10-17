@@ -6,7 +6,7 @@ related topics:
   - "[[Set]]"
   - "[[Subset]]"
 reference:
-  - "Gallian, J. A. Contemporary\r Abstract Algebra"
+  - "Gallian, J. A. Contemporary Abstract Algebra"
 ---
 A _partition_ of a [[Set]] $S$ is a collection $P$ such that its elements
 - Nonempty subsets of $S$:

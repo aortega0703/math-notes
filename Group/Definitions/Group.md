@@ -6,7 +6,7 @@ tags:
   - definition
   - abstract_algebra
 reference:
-  - "Gallian, J. A. Contemporary\r Abstract Algebra"
+  - "Gallian, J. A. Contemporary Abstract Algebra"
 aliases:
   - Abelian group
 ---
