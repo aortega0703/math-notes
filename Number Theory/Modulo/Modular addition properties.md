@@ -6,7 +6,7 @@ related topics:
   - "[[Congruence under modulo|Congruence mod n]]"
   - "[[Modular addition]]"
 ---
-In [[Integers modulo n is a group|$\mathbb{Z}/n$]] [[Modular addition]] has the following properties
+In [[Integers modulo n (set)]] [[Modular addition]] has the following properties
 - Commutativity.
 - Associativity.
 - Has identity $0$.
