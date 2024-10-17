@@ -1,7 +1,7 @@
 ---
 tags:
-  - exercise
   - number_theory
+  - theorem
 related topics:
   - "[[Greatest Common Divisor|GCD]]"
 ---
