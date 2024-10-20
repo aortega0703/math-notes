@@ -23,7 +23,7 @@ For functions $f: A\to B$, $g: B \to C$, and $h:C \to D$
 			&= ((h\circ g)\circ f)(a)
 	\end{align}
 	$$So $h\circ(g\circ f)= (h\circ g)\circ f$.
-1. Let $a,a'\in A$ such that $(g\circ f)(a) = (g\circ f)(a')$, then$$
+2. Let $a,a'\in A$ such that $(g\circ f)(a) = (g\circ f)(a')$, then$$
 	\begin{align}
 		(g\circ f)(a) &= (g\circ f)(a')\\
 		g(f(a)) &= g(f(a'))\\
