@@ -3,10 +3,10 @@ tags:
   - theorem
   - abstract_algebra
 related topics:
-  - "[[Definition|Dihedral group]]"
+  - "[[Dihedral group|Dihedral group]]"
   - "[[Order]]"
 ---
-For [[Definition]] with generators $\sigma$ and $\tau$$$
+For [[Dihedral group]] with generators $\sigma$ and $\tau$$$
 	D_{2n}=\{\sigma^k:0\leq k < n\}\cup\{\tau\sigma^k:0\leq k < n\}
 $$and $|D_{2n}|=2n$
 ##### Proof:

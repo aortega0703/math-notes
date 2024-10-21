@@ -3,7 +3,7 @@ tags:
   - theorem
   - abstract_algebra
 related topics:
-  - "[[Definition|Dihedral group]]"
+  - "[[Dihedral group|Dihedral group]]"
 ---
 $D_{2n}$ is precisely the group of symmetries of a regular $n$-gon, with $\sigma$ a clockwise rotation by $360\degree/n$ about the center, and $\tau$ a reflection about the line that passes through vertex $0$ and the center.
 ##### Proof:
