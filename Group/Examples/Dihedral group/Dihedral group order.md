@@ -3,7 +3,7 @@ tags:
   - theorem
   - abstract_algebra
 related topics:
-  - "[[Dihedral group|Dihedral group]]"
+  - "[[Dihedral group]]"
   - "[[Order]]"
 ---
 For [[Dihedral group]] with generators $\sigma$ and $\tau$$$
