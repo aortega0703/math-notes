@@ -3,7 +3,7 @@ tags:
   - theorem
   - abstract_algebra
 related topics:
-  - "[[Group|Abelian group]]"
+  - "[[Abelian group]]"
 mathLink: $ab=ba \iff (ab)^{-1}=a^{-1}b^{-1}$
 ---
 For a [[Group]] $G$, $G$ is [[Group|Abelian]] if and only if $(ab)^{-1}=a^{-1}b^{-1}$.
@@ -11,7 +11,7 @@ For a [[Group]] $G$, $G$ is [[Group|Abelian]] if and only if $(ab)^{-1}=a^{-1}b^
 - $\implies$:
 	By [[Socks-shoes property]]$$
 	\begin{align}
-		(ab)^{-1} 
+		(ab)^{-1}
 		&= b^{-1}a^{-1}\\
 		&= a^{-1} b^{-1}
 	\end{align}
@@ -21,6 +21,6 @@ For a [[Group]] $G$, $G$ is [[Group|Abelian]] if and only if $(ab)^{-1}=a^{-1}b^
 		e &= (ba)(ba)^{-1}\\
 		&= (ba)(a^{-1}b^{-1})\tag{$*$}\\
 		&= (ba)(ab)^{-1}\\
-		ab &= ba		
+		ab &= ba
 	\end{align}
 	$$Where ($*$) is by [[Socks-shoes property]].

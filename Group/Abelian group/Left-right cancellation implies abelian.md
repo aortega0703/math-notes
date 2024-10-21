@@ -3,7 +3,7 @@ tags:
   - theorem
   - abstract_algebra
 related topics:
-  - "[[Group|Abelian group]]"
+  - "[[Abelian group]]"
 ---
 For a [[Group]] $G$, if $ab=ca$ implies $b=c$ for all $a,b,c\in G$, then $G$ is [[Group|Abelian]].
 ##### Proof:
