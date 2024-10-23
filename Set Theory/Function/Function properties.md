@@ -9,7 +9,8 @@ aliases:
   - Inverse function
 ---
 For functions $f: A\to B$, $g: B \to C$, and $h:C \to D$
-1. $h\circ(g\circ f)= (h\circ g)\circ f$ (function composition is associative).
+1. $h\circ(g\circ f)= (h\circ g)\circ f$ (function composition is associative). i.e. the following commutes
+	![[Function composition associative.png]]
 2. If $f$ and $g$ are injective, then $g\circ f$ is injective.
 3. If $f$ and $g$ are surjective, then $g\circ f$ is surjective.
 4. If $f$ is bijective, there is a function $f^{-1}:B\to A$ such that $(f^{-1}\circ f)(a)=a$ and $(f\circ f^{-1})(b)=b$ for all $a\in A$ and $b\in B$.
