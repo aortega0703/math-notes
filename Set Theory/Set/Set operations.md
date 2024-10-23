@@ -44,3 +44,7 @@ A [[Set]] can be defined via _operations_ on other sets.
 	$$
 - Quotient:
 	For a set $S$ and an [[Equivalence relation]] $\sim$, the _quotient_ of $S$ with respect to $\sim$ (denoted $S/\sim$) is the set of equivalence classes of $S$ with respect to $\sim$.
+- Exponentiation:
+	For sets $S,T$$$
+		T^S = \{f\ |\ f: S\to T\}
+	$$is the set of all functions from $S$ to $T$.
