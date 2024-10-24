@@ -11,7 +11,7 @@ aliases:
 ---
 A _set_ is a collection of elements.
 - Membership:
-	Repetition and order do not matter in sets, only membership ("$s$ is an element of $S$" is denoted $s\in S$). The set with no elements is called the _empty set_ (denoted by $\varnothing$), a set with a single element is called a _singleton_.
+	Repetition and order do not matter in sets, only membership ("$s$ is an element of $S$" is denoted $s\in S$). The set with no elements is called the _empty set_ (denoted by $\emptyset$), a set with a single element is called a _singleton_.
 - Extensionality:
 	Sets are uniquely characterized by their elements i.e. $A=B$ if and only if $A$ and $B$ have the same elements.
 The notation for defining sets can be

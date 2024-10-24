@@ -12,7 +12,7 @@ For a cyclic group $\langle a \rangle = G$
 - For each positive divisor $k$ of $|G|$, there exists exactly one subgroup of $G$ of order $k$, namely $\langle a^{|a|/k}\rangle$.
 ##### Proof:
 - If $H\leq G$ then $H$ is cyclic:
-	$G$ is cyclic every element is of the form $a^i$ for some $i$. Let $S=\{i:a^i \in H,\ i>0\}$. If $S=\varnothing$ then $S=\{e\}$ which is cyclic, if $S\neq \varnothing$ by [[Well ordering principle]] let $b=a^{\operatorname{min}(S)}\in H$.
+	$G$ is cyclic every element is of the form $a^i$ for some $i$. Let $S=\{i:a^i \in H,\ i>0\}$. If $S=\emptyset$ then $S=\{e\}$ which is cyclic, if $S\neq \emptyset$ by [[Well ordering principle]] let $b=a^{\operatorname{min}(S)}\in H$.
 	- $\langle a^{\operatorname{min}(S)} \rangle \subseteq H$:
 		By closure of $\cdot$.
 	- $H\subseteq \langle a^{\operatorname{min}(S)}\rangle$:
@@ -31,7 +31,7 @@ For a cyclic group $\langle a \rangle = G$
 				&= |a|/\gcd\left(|a|,\frac{|a|}{k}\right)\tag{1}\\
 				&= k
 		\end{align}$$
-		Where $(1)$ is by [[Order of power element]]. 
+		Where $(1)$ is by [[Order of power element]].
 	- Uniqueness:
 		By the previous result$$
 		\begin{align}

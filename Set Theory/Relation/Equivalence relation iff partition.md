@@ -10,8 +10,8 @@ For any [[Equivalence relation|equivalence relation]] $\sim$ on a [[Set|set]] $S
 ##### Proof:
 - Equivalence relation $\implies$ partition:
 	- ${\displaystyle\bigcup_{a\in S}} \overline{a}=S$:
-		$a\in \overline{a}\subseteq S$ for all $a\in S$, then $\overline{a}\neq \varnothing$ and ${\bigcup_{a\in S}} \overline{a}=S$.
-	- $\overline{a}\cap \overline{b}\neq\varnothing$ implies $\overline{a}= \overline{b}$:
+		$a\in \overline{a}\subseteq S$ for all $a\in S$, then $\overline{a}\neq \emptyset$ and ${\bigcup_{a\in S}} \overline{a}=S$.
+	- $\overline{a}\cap \overline{b}\neq\emptyset$ implies $\overline{a}= \overline{b}$:
 		Let $c\in a\cap b$, then $a\sim c$ and $b\sim c$, therefore $a\sim b$
 		- $\overline{a} \subseteq \overline{b}$:
 			Let $a'\in \overline{a}$, then $a'\sim a$, so $a'\sim b$ and $a'\in \overline{b}$.
