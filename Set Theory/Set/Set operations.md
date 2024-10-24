@@ -12,6 +12,9 @@ aliases:
   - Union
   - Intersection
   - Difference
+  - Cartesian product
+  - Disjoint union
+  - Quotient
 ---
 A [[Set]] can be defined via _operations_ on other sets. 
 - Union:

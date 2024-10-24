@@ -33,8 +33,6 @@ For a function $f:A\to B$ and some $a\in A$
 	For a function $f:A\to B$ and $S\subseteq B$, the preimage of $S$ is defined as$$
 		f^{-1}(S) = \{a\in A: \exists b\in B. f(a)=b\}\subseteq A
 	$$Note that $f^{-1}(B)=A$. If $S=\{b\}$ then $f^{-1}(S)$ or simply $f^{-1}(b)$ is called the _fiber_ over $b$.
-- Inclusion function:
-	For sets $A\subseteq B$, there is an inclusion function $A\to B$ defined as $a\mapsto a$.	
 - Restriction of a function:
 	For a function $f:A\to B$ and $A'\subseteq A$, the _restriction_ of $f$ to $A'$ ($f|_{A'}: S \to B$) is defined as$$
 		f|_{A'}\ (a) = f(a)
