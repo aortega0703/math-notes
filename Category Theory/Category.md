@@ -4,6 +4,9 @@ tags:
   - category_theory
 reference:
   - Riehl, E. Category Theory in Context (2017)
+aliases:
+  - Morphism
+  - Object
 ---
 A _category_ $\mathcal{C}$ is composed of
 - A collection of _objects_ $\operatorname{ob}(\mathcal{C})$.
