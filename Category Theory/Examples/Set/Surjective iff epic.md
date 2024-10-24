@@ -7,7 +7,7 @@ related topics:
   - "[[Monic-epic|Epic]]"
   - "[[Injectivity and surjectivity|Surjectivity]]"
 ---
-A [[Function]] $f:A\to B$ is [[Injectivity and surjectivity|Surjective]] if and only if it is [[Monic-epic|Epic]].
+A [[Function]] $f:A\to B$ ($A\neq \emptyset$) is [[Injectivity and surjectivity|Surjective]] if and only if it is [[Monic-epic|Epic]].
 ##### Proof:
 - Surjective $\implies$ Epic:
 	Let $g,h: B\to C$ such that $g\circ f = h \circ f$, and $b\in B$. By surjectivity $f(a)=b$ for some $a\in A$, then$$

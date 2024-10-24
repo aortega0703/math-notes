@@ -21,14 +21,18 @@ For a function $f:A\to B$ and some $a\in A$
 - $B$ is called the _codomain_ of $f$.
 - $f(a)$ is called the _image_ of $a$ under $f$.
 ---
-- Evaluating on a subset of the domain:
-	For a function $f:A\to B$ and $A'\subseteq A$, the image of $A'$ is defined as$$
-		f(A') =\{f(a)\in B\ |\ a\in A'\}\subseteq B
+- Image of a subset of the domain:
+	For a function $f:A\to B$ and $S\subseteq A$, the image of $S$ is defined as$$
+		f(S) =\{f(a)\in B\ |\ a\in S\}\subseteq B
 	$$
 - Image of the function:
 	For a function $f:A\to B$, the image of $f$ is defined as$$
 		\operatorname{Im}(f) = \{f(a)\in B: a\in A\}\subseteq B
 	$$Note that $f(A)=\operatorname{Im}(f)$.
+- Preimage of a subset of the codomain:
+	For a function $f:A\to B$ and $S\subseteq B$, the preimage of $S$ is defined as$$
+		f^{-1}(S) = \{a\in A: \exists b\in B. f(a)=b\}\subseteq A
+	$$Note that $f^{-1}(B)=A$. If $S=\{b\}$ then $f^{-1}(S)$ or simply $f^{-1}(b)$ is called the _fiber_ over $b$.
 - Inclusion function:
 	For sets $A\subseteq B$, there is an inclusion function $A\to B$ defined as $a\mapsto a$.	
 - Restriction of a function:

@@ -7,7 +7,7 @@ related topics:
   - "[[Monic-epic|Monic]]"
   - "[[Injectivity and surjectivity|Injectivity]]"
 ---
-A [[Function]] $f:A\to B$ is [[Injectivity and surjectivity|Injective]] if and only if it is [[Monic-epic|Monic]].
+A [[Function]] $f:A\to B$ ($A\neq \emptyset$) is [[Injectivity and surjectivity|Injective]] if and only if it is [[Monic-epic|Monic]].
 ##### Proof:
 - Injective $\implies$ Monic:
 	Let $g,h: S \to A$ such that $f \circ g = f \circ h$, then$$
