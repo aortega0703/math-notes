@@ -1,0 +1,17 @@
+---
+tags:
+  - definition
+  - category_theory
+reference:
+  - Riehl, E. Category Theory in Context (2017)
+---
+A _category_ $\mathcal{C}$ is composed of
+- A collection of _objects_ $\operatorname{ob}(\mathcal{C})$.
+- A collection of _morphisms/arrows_ $\operatorname{arr}(\mathcal{C})$.
+so that:
+- Each morphism has a _domain_ and _codomain_ object. The notation $f: X\to Y$ (or $X\overset{f}{\to}Y$) signifies that $f$ is a morphism with domain $X$ and codomain $Y$.
+- Each object $X$ has an _identity morphism_ $\operatorname{id}_X : X\to X$.
+- For any pair of morphisms $X \overset{f}{\to} Y \overset{g}{\to} Z$, there exists a _composite morphism_ $gf: X \to Z$.
+and composition is:
+- (Unital with identity) For any $f: X\to Y$, $\operatorname{id}_Y f = f \operatorname{id}_X = f$.
+- (Associative) For any morphisms $A\overset{f}{\to} B\overset{g}{\to} C\overset{h}{\to} D$, $(hg)f = h(gf)$, (thus denoted simply $hgf$).
