@@ -10,7 +10,7 @@ reference:
 ---
 For a [[Set]] $S$ and an [[Equivalence relation]] $\sim$ on $S$, the _canonical projection_$$
 \begin{align}
-	[\cdot]: S &\twoheadrightarrow S/\!\sim\\
+	[\cdot]: S &\twoheadrightarrow S/\!\!\sim\\
 	s&\mapsto [s]
 \end{align}
 $$that sends an object to its equivalence class is [[Injectivity and surjectivity|Surjective]].

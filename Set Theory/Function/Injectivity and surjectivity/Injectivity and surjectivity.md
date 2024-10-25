@@ -9,6 +9,12 @@ aliases:
   - Surjectivity
   - Bijectivity
   - Isomorphism
+  - Injective
+  - Surjective
+  - Bijective
+  - Injection
+  - Surjection
+  - Bijection
 reference:
   - Gallian, J. A. Contemporary Abstract Algebra
 ---
