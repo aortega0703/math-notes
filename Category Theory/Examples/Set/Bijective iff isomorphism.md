@@ -3,9 +3,9 @@ tags:
   - theorem
   - category_theory
 related topics:
-  - "[[Isomorphism]]"
+  - "[[Notes/Category Theory/Morphism/Isomorphism]]"
   - "[[Injectivity and surjectivity|Bijectivity]]"
 ---
-For a [[Function]] $f: A\to B$, $f$ is a [[Injectivity and surjectivity|Bijection]] if and only if it is an [[Isomorphism]].
+For a [[Function]] $f: A\to B$, $f$ is a [[Injectivity and surjectivity|Bijection]] if and only if it is an [[Notes/Category Theory/Morphism/Isomorphism]].
 ##### Proof:
 By [[Bijective iff inverse]].
