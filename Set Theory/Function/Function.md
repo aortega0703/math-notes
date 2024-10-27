@@ -14,7 +14,7 @@ reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
 For [[Set|sets]] $A,B$
-- A _function_ $f$ from $A$ to $B$ (denoted $f:A\to B$) assigns to each $a\in A$ exactly one $b\in B$ (in notation $f(a)=b$). It can be defined as a set $\Gamma_f \subseteq A\times B$ such that $\forall a\in A. \exists! b\in B. (a,b)\in \Gamma_f$.
+- A _function_ $f$ from $A$ to $B$ (denoted $f:A\to B$) assigns to each $a\in A$ exactly one $b\in B$ (in notation $f(a)=b$). It can be defined as a set $\Gamma_f \subseteq A\times B$ (its _graph_) such that $\forall a\in A. \exists! b\in B. (a,b)\in \Gamma_f$ where $(a,b)\in\Gamma_f \iff f(a)=b$.
 - The action of $f$ on some element $a$ is sometimes indicated as $a\mapsto f(a)$.
 For a function $f:A\to B$ and some $a\in A$
 - $A$ is called the _domain_ of $f$.
