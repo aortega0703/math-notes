@@ -7,6 +7,10 @@ reference:
 aliases:
   - Left inverse
   - Right inverse
+  - Section
+  - Retraction
+  - Split monic
+  - Split epic
 ---
 For [[Category|Morphisms]] $X \overset{s}{\to} Y \overset{r}{\to} X$ so that $rs=\operatorname{id}_X$
 - $s$ is a _section_ or _right inverse_ to $r$, also _split monomorphism_.

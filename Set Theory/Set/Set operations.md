@@ -14,6 +14,7 @@ aliases:
   - Difference
   - Cartesian product
   - Quotient
+  - Exponentiation
 ---
 A [[Set]] can be defined via _operations_ on other sets. 
 - Union:

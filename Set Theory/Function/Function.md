@@ -9,6 +9,7 @@ aliases:
   - Domain
   - Image
   - Function composition
+  - Graph
 reference:
   - Gallian, J. A. Contemporary Abstract Algebra
   - "Aluffi, P. (2009). Algebra: Chapter 0"
