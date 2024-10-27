@@ -13,7 +13,6 @@ aliases:
   - Intersection
   - Difference
   - Cartesian product
-  - Disjoint union
   - Quotient
 ---
 A [[Set]] can be defined via _operations_ on other sets. 
@@ -38,12 +37,6 @@ A [[Set]] can be defined via _operations_ on other sets.
 		S\times T = \{(s,t)\ |\ s\in S \land t\in T\}
 	$$is the set whose elements are [[Ordered pair|ordered pairs]] $(s,t)$ with $s\in S$ and $t\in T$. This generalizes for a family of sets $S$ [[Index|indexed]] by $I$ as$$
 		\prod_{i\in I} S_i = \left.\left\{ f:I\to\bigcup_{i\in I}S_i\ \right|\ f(i)\in S_i\right\}
-	$$
-- Disjoint union:
-	For sets $S,T$ their disjoint union$$
-		S+T = (S\times\{0\}) \cup (T\times\{1\})
-	$$is the set whose elements are ordered pairs $(i,x)$ with $i= 0$ if $x\in S$ and $i=1$ if $x\in T$. This generalizes for a family of sets $S$ [[Index|indexed]] by $I$ as$$
-		\coprod_{i\in I}S_i = \{(s,i)\ |\ s\in S_i\}
 	$$
 - Quotient:
 	For a set $S$ and an [[Equivalence relation]] $\sim$, the _quotient_ of $S$ with respect to $\sim$ (denoted $S/\sim$) is the set of equivalence classes of $S$ with respect to $\sim$.
