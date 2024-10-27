@@ -21,6 +21,13 @@ For a function $f:A\to B$ and some $a\in A$
 - $B$ is called the _codomain_ of $f$.
 - $f(a)$ is called the _image_ of $a$ under $f$.
 ---
+- Function composition:
+	For functions $A\overset{f}{\to}B\overset{g}{\to}C$ there is a function$$
+	\begin{align}
+		g\circ f: A &\to C\\
+		a &\mapsto g(f(a))
+	\end{align}
+	$$
 - Image of a subset of the domain:
 	For a function $f:A\to B$ and $S\subseteq A$, the image of $S$ is defined as$$
 		f(S) =\{f(a)\in B\ |\ a\in S\}\subseteq B
