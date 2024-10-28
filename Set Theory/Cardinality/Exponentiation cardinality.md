@@ -5,6 +5,7 @@ tags:
 related topics:
   - "[[Set operations|Exponentiation]]"
   - "[[Cardinality]]"
+mathLink: $\left|B^A\right|=|B|^{|A|}$
 ---
 For finite [[Set|sets]] $A,B$,$$
 \left|B^A\right|=|B|^{|A|}
