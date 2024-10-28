@@ -18,6 +18,10 @@ For a [[Category]] $\mathcal{C}$ its _opposite category_ $\mathcal{C}^{\operator
 	f\in \operatorname{Hom}_{\mathcal{C}}(A, B)
 	$$
 	It reverses arrow direction in $\mathcal{C}$.
+- Composition:
+	If $\circ$ is composition in $\mathcal{C}$ and $\circ^\operatorname{op}$ is composition in $\mathcal{C}^{op}$, then for $A\overset{f}{\to}B\overset{g}{\to}C$ in $\mathcal{C}$.$$
+		g\circ f = f\circ^\operatorname{op} g
+	$$
 ---
 $\mathcal{C}^\operatorname{op}$ is a category.
 ##### Proof:
