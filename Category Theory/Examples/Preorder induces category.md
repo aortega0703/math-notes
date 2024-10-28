@@ -13,7 +13,7 @@ A [[Preorder]] $\lesssim$ on $S$ induces a category (say $S_\lesssim$) defined b
 	its objects are the elements of $S$.
 - Morphisms:
 	$$(a,b)\in\operatorname{Hom}_{S_\lesssim}(a,b) \iff a\lesssim b$$
-	there exists a single morphism between $a$ and $b$ when $a\lesssim b$, otherwise $\operatorname{Hom}_{S_\lesssim}(a,b)=\emptyset$.
+	there exists a single morphism from $a$ to $b$ when $a\lesssim b$, otherwise $\operatorname{Hom}_{S_\lesssim}(a,b)=\emptyset$.
 - Composition:
 	$$a\overset{(a,b)}{\to}b\overset{(b,c)}{\to}c \implies a\overset{(a,c)}{\to}c$$
 ---
