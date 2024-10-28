@@ -30,3 +30,5 @@ and composition is:
 	A category is called _small_ when $\operatorname{op}(\mathcal{C})$ is a set, otherwise it is _large_. A category is _locally small_ when every $\operatorname{Hom}(X,Y)$ is a set.
 - Endomorphism:
 	A morphism $f: A\to A$ is called an _endomorphism_. $\operatorname{Hom}(A,A)$ is denoted $\operatorname{End}(A)$.
+- Discrete Category:
+	A category is _discrete_ when it only contains identity morphisms.
