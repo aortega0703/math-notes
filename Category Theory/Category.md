@@ -4,6 +4,7 @@ tags:
   - category_theory
 reference:
   - Riehl, E. Category Theory in Context (2017)
+  - "Aluffi, P. (2009). Algebra: Chapter 0"
 aliases:
   - Morphism
   - Object
@@ -18,3 +19,14 @@ so that:
 and composition is:
 - (Unital with identity) For any $f: X\to Y$, $\operatorname{id}_Y f = f \operatorname{id}_X = f$.
 - (Associative) For any morphisms $A\overset{f}{\to} B\overset{g}{\to} C\overset{h}{\to} D$, $(hg)f = h(gf)$, (thus denoted simply $hgf$).
+---
+- Commutative diagram:
+	A _diagram_ is said to _commute_ when all paths with a common beginning and end are equal.
+- Hom-set:
+	The collection$$
+		\operatorname{Hom}(X,Y) = \{f\in\operatorname{arr}(\mathcal{C})\ |\ f : X \to Y\}
+	$$usually receives the name of _Hom-set_ as in set of homomorphisms (even if not containing homomorphisms, or not a set).
+- Small category:
+	A category is called _small_ when $\operatorname{op}(\mathcal{C})$ is a set, otherwise it is _large_. A category is _locally small_ when every $\operatorname{Hom}(X,Y)$ is a set.
+- Endomorphism:
+	A morphism $f: A\to A$ is called an _endomorphism_. $\operatorname{Hom}(A,A)$ is denoted $\operatorname{End}(A)$.
