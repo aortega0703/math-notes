@@ -3,7 +3,7 @@ tags:
   - theorem
   - category_theory
 related topics:
-  - "[[Monomorphism]]"
+  - "[[Monic-epic]]"
 ---
 - For [[Monic-epic|Monics]] $A \overset{f}{\hookrightarrow} B \overset{g}{\hookrightarrow} C$, $g\circ f: A\hookrightarrow C$ is also monic.
 - For [[Monic-epic|Epics]] $A \overset{f}{\twoheadrightarrow} B \overset{g}{\twoheadrightarrow} C$ , $g\circ f: A\twoheadrightarrow C$ is also epic.
