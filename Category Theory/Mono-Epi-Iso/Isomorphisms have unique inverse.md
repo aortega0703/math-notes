@@ -3,9 +3,9 @@ tags:
   - theorem
   - category_theory
 related topics:
-  - "[[Notes/Category Theory/Morphism/Isomorphism]]"
+  - "[[Isomorphism]]"
 ---
-For an [[Notes/Category Theory/Morphism/Isomorphism]] $f:A\overset{\sim}{\to} B$, its inverse $f^{-1}: B \to A$ is unique.
+For an [[Isomorphism]] $f:A\overset{\sim}{\to} B$, its inverse $f^{-1}: B \to A$ is unique.
 ##### Proof:
 Let $g,h: B\to A$ be inverses of $f$, then$$
 \begin{align}

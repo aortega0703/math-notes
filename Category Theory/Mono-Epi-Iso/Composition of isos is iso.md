@@ -3,7 +3,7 @@ tags:
   - theorem
   - category_theory
 related topics:
-  - "[[Notes/Category Theory/Morphism/Isomorphism]]"
+  - "[[Isomorphism]]"
 ---
 For [[Category|Morphisms]] $A\overset{f}{\to}B\overset{g}{\to}C$ and $A\overset{f^{-1}}{\gets}B\overset{g^{-1}}{\gets}C$, then
 - if $f$ and $g$ have [[Left-right inverse|Left inverses]] $f^{-1}$ and $g^{-1}$, then $gf:A\to C$ has a left inverse $f^{-1}g^{-1}$.
