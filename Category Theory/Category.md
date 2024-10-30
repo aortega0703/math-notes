@@ -8,6 +8,7 @@ reference:
 aliases:
   - Morphism
   - Object
+  - Identity morphism
 ---
 A _category_ $\mathcal{C}$ is composed of
 - A collection of _objects_ $\operatorname{ob}(\mathcal{C})$.

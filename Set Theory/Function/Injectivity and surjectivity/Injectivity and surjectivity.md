@@ -8,7 +8,6 @@ aliases:
   - Injectivity
   - Surjectivity
   - Bijectivity
-  - Isomorphism
   - Injective
   - Surjective
   - Bijective
