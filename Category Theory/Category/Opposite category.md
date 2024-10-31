@@ -7,10 +7,8 @@ related topics:
   - "[[Category]]"
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
-aliases:
-  - Dual
 ---
-For a [[Category]] $\mathcal{C}$ its _opposite category_ $\mathcal{C}^{\operatorname{op}}$ is obtained by reversing all arrows. Spelled out this means it has
+For a [[Category]] $\mathcal{C}$ its _opposite category_ $\mathcal{C}^{\operatorname{op}}$ is defined by
 - Objects:
 	$$A\in \operatorname{obj}(\mathcal{C}^{\operatorname{op}}) \iff A\in \operatorname{obj}(\mathcal{C})$$
 	It has the same objects as $\mathcal{C}$.
@@ -24,8 +22,6 @@ For a [[Category]] $\mathcal{C}$ its _opposite category_ $\mathcal{C}^{\operator
 	If $\circ$ is composition in $\mathcal{C}$ and $\circ^\operatorname{op}$ is composition in $\mathcal{C}^{op}$, then for $A\overset{f}{\to}B\overset{g}{\to}C$ in $\mathcal{C}$.$$
 		g\circ f = f\circ^\operatorname{op} g
 	$$
-Two definitions are _dual_ if one is obtained by reversing all arrows from the other.
-
 ---
 $\mathcal{C}^\operatorname{op}$ is a category.
 ##### Proof:
