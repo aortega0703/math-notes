@@ -20,4 +20,4 @@ $$
 \forall A\in\operatorname{Obj}(\mathcal{C}). \big|\text{Hom}_\mathcal{C}(A,F)\big|=1
 $$
 - An object $T$ is _terminal_ if its either initial or final.
-Initial and final objects are [[Dual]] concepts.
+Initial and final objects are [[Opposite category|Dual]] concepts.

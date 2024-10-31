@@ -17,7 +17,7 @@ For a [[Category]] $\mathcal{C}$ and an object $A\in \operatorname{ob}(\mathcal{
 	morphisms $\alpha$ such that the following commutes
 	![[Coslice category definition.png]]
 - Composition as usual.
-The [[Dual]] notion is an [[Slice category]].
+The [[Opposite category|Dual]] notion is an [[Slice category]].
 ---
 This data does describe a category.
 ##### Proof:
