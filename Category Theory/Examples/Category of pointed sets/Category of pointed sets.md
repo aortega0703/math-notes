@@ -4,7 +4,7 @@ tags:
   - category_theory
 related topics:
   - "[[Category]]"
-  - "[[Set - Category of sets]]"
+  - "[[Category of sets]]"
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---

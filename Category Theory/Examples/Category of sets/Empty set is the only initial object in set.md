@@ -3,7 +3,7 @@ tags:
   - theorem
   - category_theory
 related topics:
-  - "[[Set - Category of sets]]"
+  - "[[Category of sets]]"
   - "[[Initial-final object|Initial object]]"
 ---
 In the [[Category]] $\mathbf{Set}$, $\emptyset$ is its only [[Initial-final object|Initial object]].
