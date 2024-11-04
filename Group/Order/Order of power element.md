@@ -37,7 +37,7 @@ For a [[Group]] $G$, $a\in G$ and $k\in \mathbb{Z}^+$, $\langle a^k\rangle = \la
 	Therefore $\left\langle a^k\right\rangle = \left\langle a^{\operatorname{gcd}(|a|,k)}\right\rangle$.
 - $|a^k| = |a|/\operatorname{gcd}(|a|,k)$:
 	- If $d$ divides $|a|$ then $\left | a^d \right | = |a|/d$: 
-		$|a|/d\in\mathbb{Z}$ since $d$ divides $a$, then$$
+		$|a|/d\in\mathbb{Z}$ since $d$ divides $|a|$, then$$
 		\begin{align}
 			\left(a^d\right)^{|a|/d} 
 				&= a^{|a|}\\
