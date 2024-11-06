@@ -9,7 +9,7 @@ aliases:
 reference:
   - "Gallian, J. A. Contemporary Abstract Algebra"
 ---
-For $0<n\in \mathbb{Z}$, $U(n)=\{0<m<n\in\mathbb{Z}:\gcd(m,n)=1\}$ is a group under multiplication modulo $n$. This is called the group of units modulo $n$ or the multiplicative group of integers modulo $n$, also denoted by $(\mathbb{Z}/n\mathbb{Z})^\times$.
+For $0<n\in \mathbb{Z}$, $U(n)=\{0<m<n\in\mathbb{Z}:\gcd(m,n)=1\}\subseteq \mathbb{Z}/n$ is a group under multiplication modulo $n$. This is called the group of units modulo $n$ or the multiplicative group of integers modulo $n$, also denoted by $(\mathbb{Z}/n\mathbb{Z})^*$.
 ##### Proof:
 For $U(n)$ to be a group it has to have
 - Closure under multiplication:
