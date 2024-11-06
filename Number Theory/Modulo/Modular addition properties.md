@@ -7,11 +7,21 @@ related topics:
   - "[[Modular addition]]"
 ---
 In [[Integers modulo n (set)]] [[Modular addition]] has the following properties
-- Commutativity.
-- Associativity.
-- Has identity $0$.
-- Has inverses.
-- Preserves [[Congruence under modulo]].
+- Commutativity:$$
+	 a + b \equiv b + a\quad(\text{mod}\ n)
+	$$
+- Associativity:$$
+		(a + b) + c \equiv a + (b + c)\quad(\text{mod}\ n)
+	$$
+- Has identity $0$:$$
+		a + 0 \equiv a \quad(\text{mod}\ n)
+	$$
+- Has inverses:$$
+	(\forall a\in\mathbb{Z}/n)(\exists b\in \mathbb{Z}/n): a + b \equiv 0\quad(\text{mod}\ n)
+	$$
+- Preserves [[Congruence under modulo]]:$$
+		(a\equiv_n b) \land (a'\equiv_n b')\implies a+a'\equiv_n b+b'
+	$$
 ##### Proof:
 - is commutative:
 	By commutativity of addition $a+b=b+a$, then $(a+b)-(b+a)=0=0n$. Therefore $a+b\equiv b+a\ (\operatorname{mod}\ n)$.
@@ -21,5 +31,21 @@ In [[Integers modulo n (set)]] [[Modular addition]] has the following properties
 	By identity of addition $a+0=a$, then $(a+0)-a=0=0n$. Therefore $a+0\equiv a\ (\operatorname{mod}\ n)$.
 - has inverses:
 	By existence of additive inverses $(a+(-a))-0=0=0n$. Therefore $a + (-a)\equiv 0\ (\operatorname{mod}\ n)$.
-- preserves congruence modulo $n$:
-	If $a\equiv b\ (\operatorname{mod}\ n)$ then $n\ |\ a-b=(a+c)-(b+c)$. Therefore $a+c\equiv b+c\ (\operatorname{mod}\ n)$.
+- preserves congruence modulo $n$:$$
+	\begin{align}
+		\begin{aligned}
+			a &\equiv b\quad(\text{mod}\ n)\\
+			n&\ \ |\ \ a-b\\
+			a-b &= kn
+		\end{aligned}&\qquad
+		\begin{aligned}
+			a' &\equiv b'\quad(\text{mod}\ n)\\
+			n&\ \ |\ \ a'-b'\\
+			a'-b' &= k'n\\
+		\end{aligned}\\
+		a-b + a'-b' &= kn + k'n\\
+		(a+a')-(b+b') &= (k + k')n\\
+		n &\ \ |\ \ (a+a')-(b+b')\\
+		a + a'&\equiv b + b'\quad(\text{mod}\ n)
+	\end{align}
+	$$
