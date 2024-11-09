@@ -7,26 +7,35 @@ related topics:
   - "[[Division|Modulo]]"
 mathLink: $\gcd(a,n) = \gcd(a\ \operatorname{mod}\ n,\ n)$
 ---
-For $a,n\in\mathbb{Z}$$$
-\gcd(a,n) = \gcd(a\ \operatorname{mod}\ n,\ n)
+For all $a,b,n\in\mathbb{Z}$
+$$
+a\equiv b\ (\text{mod }n) \implies \gcd(a,n) = \gcd(b,n)
 $$
 ##### Proof:
-By [[Division algorithm]], $a = qn + b$ for some $q\in\mathbb{Z}$
-- $\gcd(b,n) \leq \gcd(a,n)$:$$
-\begin{align}
-	a &= qn + b\\
-		&= qc\gcd(b,n) + c'\gcd(b,n)\quad\text{for some $c,c'\in\mathbb{Z}$}\\
-		&= (qc+c')\gcd(b,n)\\
-	\gcd(b,n)&\ \ \big|\ \ a\\
-	\gcd(b,n) &\leq \gcd(a,n)
-\end{align}
-$$
-- $\gcd(b,n) \geq \gcd(a,n)$:$$
+- $\gcd(a,n)\leq\gcd(b,n)$:
+	Let $d\in\mathbb{Z}$ such that $d\ |\ a$ and $d\ |\ n$, so $a=a_d d$ and $n=n_d d$ for some $a_d$ and $n_d$, then$$
 	\begin{align}
-		b &= a - qn\\
-			&= c\gcd(a,n) - qc'\gcd(a,n)\quad\text{for some $c,c'\in\mathbb{Z}$}\\
-			&= (c-qc')\gcd(a,n)\\
-		\gcd(a,n) &\ \ \big|\ \ b\\
-		\gcd(a,n) &\leq \gcd(b,n)
-	\end{align}$$
-Therefore $\gcd(a,n) = \gcd(b,n)$.
+		a&\equiv b\quad (\text{mod }n)\\
+		n&\ \ |\ \ a-b\\
+		a - b &= kn
+			&\text{for some $k$}\\
+		a_dd -b &= n_d d\\
+		b &= a_dd-n_dd\\
+		&= (a_d-n_d)d\\
+		d&\ \ |\ \ b
+	\end{align}
+	$$As every common divisor of $a$ and $n$ is also a common divisor of $b$ and $n$, then $\gcd(a,n)\leq\gcd(b,n)$.
+- $\gcd(a,n)\geq\gcd(b,n)$:
+	Let $d\in\mathbb{Z}$ such that $d\ |\ b$ and $d\ |\ n$, so $b=b_d d$ and $n=n_d d$ for some $b_d$ and $n_d$, then$$
+	\begin{align}
+		a&\equiv b\quad (\text{mod }n)\\
+		n&\ \ |\ \ a-b\\
+		a - b &= kn
+			&\text{for some $k$}\\
+		a - b_dd &= n_d d\\
+		a &= b_dd+n_dd\\
+		&= (b_d+n_d)d\\
+		d&\ \ |\ \ a
+	\end{align}
+	$$As every common divisor of $b$ and $n$ is also a common divisor of $a$ and $n$, then $\gcd(a,n)\geq\gcd(b,n)$.
+Therefore $\gcd(a,n)=\gcd(b,n)$.
