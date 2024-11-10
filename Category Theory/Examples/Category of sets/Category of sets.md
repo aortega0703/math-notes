@@ -11,7 +11,7 @@ reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
 The category of sets (denoted $\mathbf{Set}$) is defined by the data
-- $\operatorname{ob}(\mathbf{Set})$ = The collection of all [[Set|sets]].
+- $\operatorname{Obj}(\mathbf{Set})$ = The collection of all [[Set|sets]].
 - $\operatorname{Hom}(A,B)=B^A$ for $A,B\in\operatorname{ob}(\mathbf{Set})$.
 - $\circ$ = [[Function|Function composition]].
 
