@@ -11,7 +11,7 @@ In $\mathbf{Grp}$, the [[Group|Trivial group]] is a [[Initial-final object|Zero 
 ##### Proof:
 Let $G$ be a group
 - Initial:
-	By [[Group homomorphisms preverse identity]] there is exactly one [[Group homomorphism]] $\phi: \{e\} \to G$, namely $\phi(e)=e_G$.
+	By [[Group homomorphisms preserve identity]] there is exactly one [[Group homomorphism]] $\phi: \{e\} \to G$, namely $\phi(e)=e_G$.
 - Final:
 	By [[Singletons are final objects in category of sets]] there is exactly one function$$
 	\begin{align}
