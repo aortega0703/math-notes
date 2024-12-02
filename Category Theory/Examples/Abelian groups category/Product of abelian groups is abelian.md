@@ -5,6 +5,7 @@ tags:
   - category_theory
 related topics:
   - "[[Category of abelian groups]]"
+  - "[[Direct product]]"
 ---
 For [[Abelian group|abelian groups]] $G,H$, their [[Direct product]] $G\times H$ is also abelian. This means that $\mathbf{Ab}$ has products.
 ##### Proof:
