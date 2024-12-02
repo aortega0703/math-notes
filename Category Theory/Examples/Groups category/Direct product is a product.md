@@ -5,7 +5,7 @@ tags:
   - theorem
 related topics:
   - "[[Product]]"
-  - "[[Category of groups]]"
+  - "[[Notes/Category Theory/Examples/Groups category/Category of groups]]"
 ---
 For groups $G,H$ their [[Direct product]] $G\times H$ is a [[Product]].
 ##### Proof:

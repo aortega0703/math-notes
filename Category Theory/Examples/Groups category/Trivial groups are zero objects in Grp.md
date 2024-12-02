@@ -4,7 +4,7 @@ tags:
   - abstract_algebra
   - category_theory
 related topics:
-  - "[[Category of groups]]"
+  - "[[Notes/Category Theory/Examples/Groups category/Category of groups]]"
   - "[[Initial-final object|Zero object]]"
 ---
 In $\mathbf{Grp}$, the [[Group|Trivial group]] is a [[Initial-final object|Zero object]].
