@@ -4,7 +4,7 @@ related topics:
   - "[[Center]]"
 tags:
   - definition
-  - abstract_algebra
+  - math/abstract_algebra
 reference:
   - "Gallian, J. A. Contemporary Abstract Algebra"
 ---

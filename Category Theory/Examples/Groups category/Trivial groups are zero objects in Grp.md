@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
   - category_theory
 related topics:
   - "[[Notes/Category Theory/Examples/Groups category/Category of groups]]"

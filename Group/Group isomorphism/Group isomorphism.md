@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - abstract_algebra
+  - math/abstract_algebra
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 related topics:

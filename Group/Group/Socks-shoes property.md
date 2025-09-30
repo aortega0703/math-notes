@@ -3,7 +3,7 @@ related topics:
   - "[[Group]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 mathLink: $(ab)^{-1} = b^{-1} a^{-1}$
 ---
 #theorem 

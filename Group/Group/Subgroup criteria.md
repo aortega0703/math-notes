@@ -4,7 +4,7 @@ related topics:
   - "[[Subgroup]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 ---
 ### Criteria 1
 For a [[Group]] $G$ and $H\subseteq G$ non-empty, $H$ is a [[Subgroup]] of $G$ if and only if $a,b\in H \implies ab^{-1} \in H$.

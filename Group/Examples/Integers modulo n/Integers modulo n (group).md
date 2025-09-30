@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 related topics:
   - "[[Integers modulo n (set)|Integers modulo n (set)]]"
   - "[[Abelian group]]"

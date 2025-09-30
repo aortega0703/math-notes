@@ -5,7 +5,7 @@ related topics:
   - "[[Subgroup]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 mathLink: $C(x) \leq G$
 ---
 For a [[Group]] $G$ and $x\in G$, the [[Centralizer]] $C(x)$ is a [[Subgroup]] of $G$.

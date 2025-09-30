@@ -5,7 +5,7 @@ related topics:
   - "[[Field]]"
 tags:
   - theorem
-  - linear_algebra
+  - math/linear_algebra
 ---
 In a [[Vector Space]] $V$, $(-1) v = -v$ for all $v\in V$.
 ##### Proof:

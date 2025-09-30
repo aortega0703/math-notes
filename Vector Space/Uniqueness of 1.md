@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - linear_algebra
+  - math/linear_algebra
 related topics:
   - "[[Vector Space]]"
   - "[[Field]]"
@@ -24,4 +24,4 @@ $$
 \end{align}
 $$
 which is a contradiction as $v\neq \mathbf{0}$ , so $1=1'$ making $1$ unique.
-[^1]: by [[Uniqueness of additive inverse]] and [[Multiplication by 0 (vector)]].
+[^1]: by [[Uniqueness of additive inverse in Fields]] and [[Multiplication by 0 (vector)]].

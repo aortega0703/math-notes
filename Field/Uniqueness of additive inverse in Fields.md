@@ -1,10 +1,7 @@
 ---
-mathLink: Uniqueness of $-a$
 tags:
   - theorem
-  - abstract_algebra
-related topics:
-  - "[[Field]]"
+  - math/abstract_algebra
 ---
 In a [[Field]] $F$, $-a$ is unique for all $a\in F$.
 ##### Proof:

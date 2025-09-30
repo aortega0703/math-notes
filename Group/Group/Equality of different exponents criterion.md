@@ -4,7 +4,7 @@ related topics:
   - "[[Order]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 mathLink: Criterion for $a^i = a^j$
 ---
 For a [[Group]] $G$, $a\in G$, and $i,j\in \mathbb{Z}$:

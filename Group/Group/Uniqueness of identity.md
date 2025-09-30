@@ -3,7 +3,7 @@ related topics:
   - "[[Group]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 ---
 A [[Group]] has a unique identity.
 ##### Proof:

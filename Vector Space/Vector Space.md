@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - linear_algebra
+  - math/linear_algebra
 related topics:
   - "[[Field]]"
   - "[[Set]]"

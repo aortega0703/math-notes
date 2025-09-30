@@ -4,7 +4,7 @@ related topics:
   - "[[Subgroup]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 ---
 For a [[Group]] $G$ and $H\subseteq G$ non-empty and finite, $H$ is a [[Subgroup]] of $G$ if and only if $H$ is closed under $\cdot$.
 ##### Proof:

@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 related topics:
   - "[[Abelian group]]"
 mathLink: $ab=ba \iff (ab)^{-1}=a^{-1}b^{-1}$

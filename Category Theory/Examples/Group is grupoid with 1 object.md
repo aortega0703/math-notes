@@ -2,7 +2,7 @@
 tags:
   - theorem
   - category_theory
-  - abstract_algebra
+  - math/abstract_algebra
 related topics:
   - "[[Group]]"
   - "[[Grupoid]]"

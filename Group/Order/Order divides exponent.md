@@ -4,7 +4,7 @@ related topics:
   - "[[Order]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 mathLink: $a^{k} = e \iff |a| \text{ divides }k$
 ---
 For a [[Group]] $G$ and $a\in G$ with $|a| \in \mathbb{Z}^+$, $a^{k} =e$ if and only if $|a|$ divides $k$.

@@ -3,7 +3,7 @@ related topics:
   - "[[Group]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 ---
 In a [[Group]] $G$, $a^{-1}$ is unique for all $a\in G$.
 ##### Proof:

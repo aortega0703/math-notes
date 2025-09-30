@@ -5,7 +5,7 @@ related topics:
   - "[[Subgroup]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 mathLink: $Z(G) \leq G$
 ---
 For a [[Group]] $G$, its center $Z(G)$ is a [[Subgroup]] of $G$.

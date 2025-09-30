@@ -4,7 +4,7 @@ related topics:
   - "[[Binary Operation]]"
 tags:
   - definition
-  - abstract_algebra
+  - math/abstract_algebra
 reference:
   - Gallian, J. A. Contemporary Abstract Algebra
 aliases:

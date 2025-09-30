@@ -1,6 +1,6 @@
 ---
 tags:
-  - abstract_algebra
+  - math/abstract_algebra
   - category_theory
   - theorem
 related topics:

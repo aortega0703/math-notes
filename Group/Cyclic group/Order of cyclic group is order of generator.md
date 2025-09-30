@@ -5,7 +5,7 @@ related topics:
   - "[[Order]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 mathLink: $|a|=|\langle a\rangle|$
 ---
 For a [[Group]] $G$ and $a\in G$, $|a| = |\langle a \rangle|$.

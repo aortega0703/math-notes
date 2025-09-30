@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 related topics:
   - "[[Group]]"
   - "[[Order]]"

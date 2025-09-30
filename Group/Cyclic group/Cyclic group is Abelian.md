@@ -4,7 +4,7 @@ related topics:
   - "[[Cyclic group]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 ---
 Every [[Cyclic group]] $G$ is Abelian.
 ##### Proof:

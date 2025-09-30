@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - linear_algebra
+  - math/linear_algebra
 related topics:
   - "[[Vector Space]]"
 ---

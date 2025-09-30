@@ -2,7 +2,7 @@
 mathLink: $a\mathbf{0}=\mathbf{0}$
 tags:
   - theorem
-  - linear_algebra
+  - math/linear_algebra
 related topics:
   - "[[Vector Space]]"
   - "[[Field]]"

@@ -3,7 +3,7 @@ related topics:
   - "[[Group]]"
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 ---
 In a [[Group]] $G$, $ba = ca \implies b=c$ and $ab = ac \implies b=c$ for all $a,b,c\in G$.
 ##### Proof:

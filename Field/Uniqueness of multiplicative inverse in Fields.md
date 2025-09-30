@@ -1,8 +1,7 @@
 ---
-mathLink: Uniqueness of $a^{-1}$
 tags:
   - theorem
-  - abstract_algebra
+  - math/abstract_algebra
 related topics:
   - "[[Field]]"
 ---
