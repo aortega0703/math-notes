@@ -3,25 +3,24 @@ tags:
   - definition
   - math/algebra
 ---
-# Definition
-The set of _complex numbers_ $\mathbb{C}$ is defined as:
+The set of _complex numbers_ ($CC$) is defined as:
 $$
-\mathbb{C} := \{(a, b)\ |\ a,b\in\mathbb{R}\}
+CC := {(a, b); space a,b in RR}
 $$
 with the operations (see [[#Notation]]):
 - Addition:
 $$
-(a + bi) + (c + di) = (a + b) + (c + d)i
+(a + b i) + (c + d i) = (a + b) + (c + d)i
 $$
 - Multiplication:
 $$
-(a + bi)(c + di) = (ac - bd) + (ad + bc)i
+(a + b i)(c + d i) = (a c - b d) + (a d + b c)i
 $$
 # Notation
-The following are common notations for complex numbers:
-- $a + bi := (a, b) \in \mathbb{C}$
-- $a - bi := a + (-b)i$
+The following are common notations for complex numbers (with $a, b in RR$ and $alpha, beta in CC$):
+- $a + b i := (a, b) in CC$
+- $a - b i := a + (-b)i$
 - $a := a + 0 i$
-- $bi := 0 + bi$
+- $b i := 0 + b i$
 - $i := 0 + 1i$
-- $\alpha - \beta := \alpha + (-\beta)$
+- $alpha - beta := alpha + (-beta)$

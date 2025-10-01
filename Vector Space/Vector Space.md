@@ -7,7 +7,7 @@ related topics:
   - "[[Set]]"
   - "[[Binary Operation]]"
 ---
-A vector space is a [[Set]] $V$ and a [[Field]] F with [[Binary Operation|Binary Operations]] $+: V\times V\to V$ (addition) and $\cdot: F\times V \to V$ (scalar multiplication) that has (for $u,v,w\in V$ and $a,b\in F$)
+A vector space is a [[Set]] $V$ and a [[Field]] F with [[Binary Operation|Binary Operations]] $+: V times V -> V$ (addition) and $dot: F times V -> V$ (scalar multiplication) that has (for $u,v,w in V$ and $a,b in F$)
 - Commutativity: $$u+v = v+u$$
 - Associativity: $$
 	\begin{align}
