@@ -12,12 +12,12 @@ aliases:
 ---
 For a [[Category]] $\mathcal{C}$ its _opposite category_ $\mathcal{C}^{\operatorname{op}}$ is obtained by reversing all arrows. Spelled out this means it has
 - Objects:
-	$$A\in \operatorname{obj}(\mathcal{C}^{\operatorname{op}}) \iff A\in \operatorname{obj}(\mathcal{C})$$
+	$$A in \operatorname{obj}(\mathcal{C}^{\operatorname{op}})  <==> A in \operatorname{obj}(\mathcal{C})$$
 	It has the same objects as $\mathcal{C}$.
 - Morphisms:
 	$$
-	f\in \operatorname{Hom}_{\mathcal{C}^\operatorname{op}}(B, A) \iff 
-	f\in \operatorname{Hom}_{\mathcal{C}}(A, B)
+	f in \operatorname{Hom}_{\mathcal{C}^\operatorname{op}}(B, A)  <==> 
+	f in \operatorname{Hom}_{\mathcal{C}}(A, B)
 	$$
 	It reverses arrow direction in $\mathcal{C}$.
 - Composition:

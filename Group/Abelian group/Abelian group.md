@@ -7,4 +7,4 @@ related topics:
 aliases:
   - Abelian
 ---
-A group $G$ is Abelian if it is commutative, that is $ab=ba$ for all $a,b\in G$.
+A group $G$ is Abelian if it is commutative, that is $ab=ba$ for all $a,b in G$.

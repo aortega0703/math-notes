@@ -8,6 +8,6 @@ related topics:
   - "[[Division|Modulo]]"
 reference:
   - Dummit, S., Foote M. Abstract Algebra
-mathLink: $\mathbb{Z}/n$
+mathLink: $ ZZ/n$
 ---
-By [[Congruence under modulo is equivalence relation]] and [[Equivalence relation iff partition]], the equivalence classes of [[Congruence under modulo|congruence mod n]] partitions $\mathbb{Z}$ into modulo classes. This partition is denoted $\mathbb{Z}/n\mathbb{Z}$ or $\mathbb{Z}/n$, usually taken as only the representative elements ($0\leq k < n$).
+By [[Congruence under modulo is equivalence relation]] and [[Equivalence relation iff partition]], the equivalence classes of [[Congruence under modulo|congruence mod n]] partitions $ ZZ$ into modulo classes. This partition is denoted $ ZZ/n ZZ$ or $ ZZ/n$, usually taken as only the representative elements ($0 lt.eq k < n$).

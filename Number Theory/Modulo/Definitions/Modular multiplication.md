@@ -4,8 +4,8 @@ tags:
   - number_theory
 ---
 In [[Integers modulo n (set)]] modular multiplication is defined as$$
-\begin{align}
-	\cdot_n:\hspace{-1.5em}&&\mathbb{Z}_n &\to \mathbb{Z}_n\\
+
+	\cdot_n:\hspace{-1.5em}&& ZZ_n &\to  ZZ_n\
 	&&a\cdot_n b &\mapsto ab\ (\operatorname{mod}\ n)
-\end{align}
+
 $$

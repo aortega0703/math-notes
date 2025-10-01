@@ -11,8 +11,8 @@ For [[Set|sets]] $S,T$ their disjoint union is[^1][^2]$$
 	S+T \cong S'\cup T'
 $$where $S'\cong S$, $T'\cong T$ and $S'\cap T'=\emptyset$. A common construction of their disjoint union is$$
 S+T \cong (S\times\{0\}) \cup (T\times\{1\})
-$$being the set whose elements are [[Ordered pair|ordered pairs]] $(i,x)$ with $i= 0$ if $x\in S$ and $i=1$ if $x\in T$. This generalizes for a family of sets $S$ [[Index|indexed]] by $I$ as[^2]$$
-	\sum_{i\in I}S_i \cong \{(s,i)\ |\ s\in S_i\}
+$$being the set whose elements are [[Ordered pair|ordered pairs]] $(i,x)$ with $i= 0$ if $x in S$ and $i=1$ if $x in T$. This generalizes for a family of sets $S$ [[Index|indexed]] by $I$ as[^2]$$
+	\sum_{i in I}S_i \cong \{(s,i)\ |\ s in S_i\}
 $$
 ---
 

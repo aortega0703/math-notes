@@ -1,5 +1,5 @@
 ---
-mathLink: $a\mathbf{0}=\mathbf{0}$
+mathLink: $a bold(0)= bold(0)$
 tags:
   - theorem
   - math/linear_algebra
@@ -7,15 +7,15 @@ related topics:
   - "[[Vector Space]]"
   - "[[Field]]"
 ---
-In a [[Vector Space]] $V$ over $F$, $a\mathbf{0}=\mathbf{0}$ for all $a\in F$.
+In a [[Vector Space]] $V$ over $F$, $a bold(0)= bold(0)$ for all $a in F$.
 ##### Proof:
 $$
-\begin{align}
-	a\mathbf{0} 
-		&= a(\mathbf{0} + \mathbf{0})\\
-		&= a\mathbf{0} + a\mathbf{0}\\
-	a\mathbf{0} - a\mathbf{0} 
-		&= a\mathbf{0} + a\mathbf{0} - a\mathbf{0}\\
-	\mathbf{0} &= a\mathbf{0}
-\end{align}
+
+	a bold(0) 
+		&= a( bold(0) +  bold(0))\
+		&= a bold(0) + a bold(0)\
+	a bold(0) - a bold(0) 
+		&= a bold(0) + a bold(0) - a bold(0)\
+	 bold(0) &= a bold(0)
+
 $$

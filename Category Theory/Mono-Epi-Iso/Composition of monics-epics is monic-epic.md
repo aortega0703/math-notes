@@ -10,21 +10,21 @@ related topics:
 ##### Proof:
 - $f,g$ monic $\implies$ $g\circ f$ monic:
 	Let $h, h': S \to A$ such that $(g\circ f) \circ h = (g\circ f) \circ h'$, then$$
-	\begin{align}
-		g\circ f \circ h &= g\circ f \circ h'\\
+	
+		g\circ f \circ h &= g\circ f \circ h'\
 		f \circ h &= f \circ h'
-			&\text{by $g$ monic}\\
+			&\text{by $g$ monic}\
 		h &= h'
 			&\text{by $f$ monic}
-	\end{align}
+	
 $$So $(g\circ f) \circ h = (g\circ f) \circ h' \implies h = h'$.
 - $f,g$ epic $\implies$ $g\circ f$ epic:
 	Let $h, h': C \to D$ such that $h \circ (g\circ f) = h'\circ (g\circ f)$, then$$
-	\begin{align}
-		h\circ g\circ f &= h\circ g\circ f\\
+	
+		h\circ g\circ f &= h\circ g\circ f\
 		h\circ g &= h\circ g
-			&\text{by $f$ epic}\\
+			&\text{by $f$ epic}\
 		h &= h'
 			&\text{by $g$ epic}
-	\end{align}
+	
 $$So $h\circ (g\circ f) = h'\circ (g\circ f) \implies h = h'$.

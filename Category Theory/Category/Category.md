@@ -25,7 +25,7 @@ and composition is:
 	A _diagram_ is said to _commute_ when all paths with a common beginning and end are equal.
 - Hom-set:
 	The collection$$
-		\operatorname{Hom}(X,Y) = \{f\in\operatorname{arr}(\mathcal{C})\ |\ f : X \to Y\}
+		\operatorname{Hom}(X,Y) = \{f in\operatorname{arr}(\mathcal{C})\ |\ f : X \to Y\}
 	$$usually receives the name of _Hom-set_ as in set of homomorphisms (even if not containing homomorphisms, or not a set).
 - Small category:
 	A category is called _small_ when $\operatorname{op}(\mathcal{C})$ is a set, otherwise it is _large_. A category is _locally small_ when every $\operatorname{Hom}(X,Y)$ is a set.

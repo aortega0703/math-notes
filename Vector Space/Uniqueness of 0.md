@@ -8,12 +8,12 @@ related topics:
 A [[Vector Space]] has a unique additive identity.
 
 ##### Proof:
-Let $V$ a vector space with additive identities $\mathbf{0}$ and $\mathbf{0}'$, then
+Let $V$ a vector space with additive identities $ bold(0)$ and $ bold(0)'$, then
 $$
-\begin{align}
-	\mathbf{0} &= \mathbf{0}'+ \mathbf{0}\\
-	&= \mathbf{0} + \mathbf{0}'\\
-	&= \mathbf{0}'
-\end{align}
+
+	 bold(0) &=  bold(0)'+  bold(0)\
+	&=  bold(0) +  bold(0)'\
+	&=  bold(0)'
+
 $$
-Therefore $\mathbf{0}$ is unique in $V$.
+Therefore $ bold(0)$ is unique in $V$.

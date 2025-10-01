@@ -12,5 +12,5 @@ If $p$ is prime and $p$ divides $a_1 a_2 \dots a_n$, then $p$ divides $a_i$ for 
 - Case $n=2$:
 	By [[Euclid's lemma]].
 - Case $n+1$:
-	$p$ divides $a_1 a_2 \dots a_{n+1}=(a_1 a_2 \dots a_n)a_{n+1}$. By [[Euclid's lemma]] $p$ divides $a_1 a_2 \dots a_n$ or $a_{n+1}$. If $p$ divides $a_1 a_2 \dots a_n$ then by induction it divides $a_i$ for some $i\leq n$.
+	$p$ divides $a_1 a_2 \dots a_{n+1}=(a_1 a_2 \dots a_n)a_{n+1}$. By [[Euclid's lemma]] $p$ divides $a_1 a_2 \dots a_n$ or $a_{n+1}$. If $p$ divides $a_1 a_2 \dots a_n$ then by induction it divides $a_i$ for some $i lt.eq n$.
 Therefore $p$ divides $a_i$ for some $i$.

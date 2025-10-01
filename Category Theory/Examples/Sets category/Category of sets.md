@@ -12,7 +12,7 @@ reference:
 ---
 The category of sets (denoted $\mathbf{Set}$) is defined by the data
 - $\operatorname{Obj}(\mathbf{Set})$ = The collection of all [[Set|sets]].
-- $\operatorname{Hom}(A,B)=B^A$ for $A,B\in\operatorname{ob}(\mathbf{Set})$.
+- $\operatorname{Hom}(A,B)=B^A$ for $A,B in\operatorname{ob}(\mathbf{Set})$.
 - $\circ$ = [[Function|Function composition]].
 
 ---

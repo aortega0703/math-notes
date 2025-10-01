@@ -11,7 +11,7 @@ aliases:
 ---
 A _set_ is a collection of elements.
 - Membership:
-	Repetition and order do not matter in sets, only membership ("$s$ is an element of $S$" is denoted $s\in S$). The set with no elements is called the _empty set_ (denoted by $\emptyset$), a set with a single element is called a _singleton_.
+	Repetition and order do not matter in sets, only membership ("$s$ is an element of $S$" is denoted $s in S$). The set with no elements is called the _empty set_ (denoted by $\emptyset$), a set with a single element is called a _singleton_.
 - Extensionality:
 	Sets are uniquely characterized by their elements i.e. $A=B$ if and only if $A$ and $B$ have the same elements.
 The notation for defining sets can be
@@ -21,7 +21,7 @@ The notation for defining sets can be
 	$$is the set whose elements are the integers from $1$ to $10$.
 - Intensional:
 	The elements are described by a property, and taken from a larger known set e.g.$$
-		\{n\in\mathbb{Z}\ |\ 1\leq n \leq 10\}
+		\{n in ZZ\ |\ 1 lt.eq n  lt.eq 10\}
 	$$is the set whose elements are the integers from $1$ to $10$.
 - Ostensive:
 	The elements are implied via examples e.g.$$

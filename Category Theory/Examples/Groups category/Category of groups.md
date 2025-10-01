@@ -21,18 +21,18 @@ This data does describe a [[Category]].
 	As the inner squares commute so does the outer rectangle. Then $\mathbf{Grp}$ is closed under composition.
 - Identities:
 	Let $H$ be a group, then $\text{id}_H: H \to H$ is trivially a group homomorphism. Let $G\overset{\phi}{\to} H\overset{\psi}{\to} K$, then$$
-	\begin{align}
+	
 		\begin{aligned}
-			(g)(\phi\,; \text{id}_H) &= ((g)\phi)\text{id}_H\\
-				&=(g)\phi\\
+			(g)(\phi\,; \text{id}_H) &= ((g)\phi)\text{id}_H\
+				&=(g)\phi\
 			\phi\,; \text{id}_H &= \phi
-		\end{aligned}\quad
+		\end{aligned} quad
 		\begin{aligned}
-			(h)(\text{id}_H\,;\psi) &= ((h)\text{id}_H)\psi\\
-				&=(h)\psi\\
+			(h)(\text{id}_H\,;\psi) &= ((h)\text{id}_H)\psi\
+				&=(h)\psi\
 			\text{id}_H\,;\psi &= \psi
 		\end{aligned}
-	\end{align}
+	
 	$$So $\text{id}_H$ is the identity of $H$.
 - Associativity:
 	By [[Function composition is associative]].
