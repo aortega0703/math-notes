@@ -2,7 +2,7 @@
 tags:
   - theorem
   - math/abstract_algebra
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Category of abelian groups]]"
   - "[[Exponential object]]"

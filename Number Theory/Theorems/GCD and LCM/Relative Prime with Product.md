@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - number_theory
+  - math/number_theory
 related topics:
   - "[[Greatest Common Divisor|Relative Prime]]"
 mathLink: $\gcd(a,bc)=1  <==> \gcd(a,b)=\gcd(a,c)=1$

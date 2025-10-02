@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - complex_analysis
+  - math/complex_analysis
 related topics:
   - Polar Form|Complex phase
   - "[[Polar Form]]"

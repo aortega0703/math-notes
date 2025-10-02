@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - number_theory
+  - math/number_theory
 ---
 In [[Integers modulo n (set)]] modular multiplication is defined as$$
 

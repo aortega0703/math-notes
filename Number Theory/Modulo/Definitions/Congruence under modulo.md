@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - number_theory
+  - math/number_theory
 related topics:
   - "[[Divisibility]]"
   - "[[Division|Modulo]]"

@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Initial-final object|Terminal object]]"
   - "[[Isomorphism]]"

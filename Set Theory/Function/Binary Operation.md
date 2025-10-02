@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - set_theory
+  - math/set_theory
 related topics:
   - "[[Set]]"
 reference: "Gallian, J. A. Contemporary Abstract Algebra"

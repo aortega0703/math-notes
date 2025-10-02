@@ -2,7 +2,7 @@
 tags:
   - theorem
   - math/abstract_algebra
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Notes/Category Theory/Examples/Groups category/Category of groups]]"
   - "[[Initial-final object|Zero object]]"

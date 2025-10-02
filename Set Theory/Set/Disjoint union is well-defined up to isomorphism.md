@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - set_theory
+  - math/set_theory
 related topics:
   - "[[Injectivity and surjectivity|Bijection]]"
   - "[[Disjoint union]]"

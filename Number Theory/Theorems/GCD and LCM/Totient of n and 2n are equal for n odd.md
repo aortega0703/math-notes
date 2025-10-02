@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - number_theory
+  - math/number_theory
 related topics:
   - "[[Group of units mod n]]"
   - "[[Euler's Phi Function|Euler's Totient Function]]"

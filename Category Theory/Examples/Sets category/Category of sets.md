@@ -1,6 +1,6 @@
 ---
 tags:
-  - category_theory
+  - math/category_theory
   - definition
   - theorem
 related topics:

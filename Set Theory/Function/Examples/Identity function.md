@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - set_theory
+  - math/set_theory
 related topics:
   - "[[Function]]"
   - "[[Function|Function composition]]"

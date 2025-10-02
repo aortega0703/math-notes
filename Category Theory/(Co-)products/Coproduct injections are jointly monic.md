@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Coproduct]]"
   - "[[Monic-epic|Monic]]"

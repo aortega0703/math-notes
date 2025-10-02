@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - complex_analysis
+  - math/complex_analysis
   - needs_details
 related topics:
   - "[[Complex numbers]]"

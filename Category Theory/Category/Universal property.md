@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - category_theory
+  - math/category_theory
   - needs_details
 related topics:
   - "[[Initial-final object|Terminal object]]"

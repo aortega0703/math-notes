@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - number_theory
+  - math/number_theory
 related topics:
   - "[[Congruence under modulo|Congruence mod n]]"
   - "[[Modular multiplication]]"

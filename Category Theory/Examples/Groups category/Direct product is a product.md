@@ -1,7 +1,7 @@
 ---
 tags:
   - math/abstract_algebra
-  - category_theory
+  - math/category_theory
   - theorem
 related topics:
   - "[[Product]]"

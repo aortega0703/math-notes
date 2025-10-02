@@ -2,7 +2,7 @@
 tags:
   - definition
   - math/abstract_algebra
-  - category_theory
+  - math/category_theory
   - theorem
 related topics:
   - "[[Notes/Category Theory/Examples/Groups category/Category of groups]]"

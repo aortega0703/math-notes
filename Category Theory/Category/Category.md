@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - category_theory
+  - math/category_theory
 reference:
   - Riehl, E. Category Theory in Context (2017)
   - "Aluffi, P. (2009). Algebra: Chapter 0"

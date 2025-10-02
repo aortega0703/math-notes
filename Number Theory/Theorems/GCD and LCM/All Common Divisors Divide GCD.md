@@ -1,6 +1,6 @@
 ---
 tags:
-  - number_theory
+  - math/number_theory
   - theorem
 related topics:
   - "[[Greatest Common Divisor|GCD]]"

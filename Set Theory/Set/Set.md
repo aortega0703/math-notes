@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - set_theory
+  - math/set_theory
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 aliases:

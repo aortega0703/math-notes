@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - category_theory
+  - math/category_theory
   - math/abstract_algebra
 related topics:
   - "[[Automorphism]]"

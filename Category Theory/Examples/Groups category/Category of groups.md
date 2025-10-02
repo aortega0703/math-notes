@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Group]]"
   - "[[Group homomorphism]]"

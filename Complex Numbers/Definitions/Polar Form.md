@@ -1,7 +1,7 @@
 ---
 tags:
   - definition
-  - complex_analysis
+  - math/complex_analysis
 related topics:
   - "[[Complex numbers]]"
   - "[[atan2]]"

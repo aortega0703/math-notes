@@ -2,7 +2,7 @@
 tags:
   - definition
   - theorem
-  - category_theory
+  - math/category_theory
   - needs_source
 related topics:
   - "[[Preorder]]"

@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - set_theory
+  - math/set_theory
   - to_do
 related topics:
   - "[[Set operations|Quotient]]"

@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Category of pointed sets]]"
   - "[[Initial-final object|Zero object]]"

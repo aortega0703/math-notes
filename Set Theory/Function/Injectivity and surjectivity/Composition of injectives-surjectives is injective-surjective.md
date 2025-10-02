@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - set_theory
+  - math/set_theory
 related topics:
   - "[[Function|Function composition]]"
   - "[[Injectivity and surjectivity|Injectivity]]"

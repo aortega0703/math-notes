@@ -2,7 +2,7 @@
 tags:
   - theorem
   - definition
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Power set]]"
   - "[[Category]]"

@@ -1,8 +1,8 @@
 ---
 tags:
   - theorem
-  - category_theory
-  - set_theory
+  - math/category_theory
+  - math/set_theory
 related topics:
   - "[[Monic-epic|Epic]]"
   - "[[Injectivity and surjectivity|Surjectivity]]"

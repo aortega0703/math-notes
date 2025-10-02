@@ -1,7 +1,7 @@
 ---
 tags:
   - theorem
-  - number_theory
+  - math/number_theory
 ---
 If $d$ divides $ab$ and $\gcd(a,d) = 1$, then $d$ divides $b$.
 ##### Proof:

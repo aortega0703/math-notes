@@ -2,7 +2,7 @@
 tags:
   - definition
   - theorem
-  - category_theory
+  - math/category_theory
 related topics:
   - "[[Category]]"
 reference:
