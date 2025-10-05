@@ -1,6 +1,7 @@
 ---
 tags:
   - theorem
+  - math/number_theory
 mathLink: $0.\overline{9}=1$
 ---
 In base $d$, $0.\underbrace{0\dots0}_{k-1}\overline{(d-1)}_d= 0.\underbrace{0\dots01}_{k-1}{}_d$. That is 

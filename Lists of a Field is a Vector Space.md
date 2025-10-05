@@ -3,7 +3,7 @@ tags:
   - theorem
   - math/linear_algebra
 ---
-$FF^n$ (The [[Set]] of [[Lists]] of [[Real Numbers]] or [[Complex Numbers]]) form a [[Vector Space]] with the operations:
+For any [[Field]] $F$, $F^n$ (the [[Set]] of [[List]] of length $n$ of elements of $F$) form a [[Vector Space]] over $F$ with the operations:
 - Addition:$$
 (x_1, dots, x_n) + (y_1, dots, y_n) = (x_1 + y_1, dots, x_n + y_n)
 $$
@@ -11,7 +11,6 @@ $$
 lambda(x_1, dots, x_n) = (lambda x_1, dots, lambda x_n)
 $$
 # Proof
-By [[Complex Numbers form a Field]]:
 - Commutativity:$$
 (x_1, dots, x_n) + (y_1, dots, y_n) &= (x_1 + y_1, dots, x_n + y_n)\
 &= (y_1 + x_1, dots, y_n + x_n)\
