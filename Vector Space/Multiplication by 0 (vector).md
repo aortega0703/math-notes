@@ -12,7 +12,7 @@ In a [[Vector Space]] $V$ over $F$, $a bold(0)= bold(0)$ for all $a in F$.
 $$
 
 	a bold(0) 
-		&= a( bold(0) +  bold(0))\
+		&= a( bold(0) + bold(0))\
 		&= a bold(0) + a bold(0)\
 	a bold(0) - a bold(0) 
 		&= a bold(0) + a bold(0) - a bold(0)\

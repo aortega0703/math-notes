@@ -5,14 +5,14 @@ tags:
 related topics:
   - "[[Injectivity and surjectivity|Surjectivity]]"
 ---
-For a [[Function]] $f:A\to B$ ($A != \emptyset$), $f$ is [[Injectivity and surjectivity|Surjective]] if and only it has a right inverse i.e. there exists a function $g:B \to A$ such that $f\circ g = \operatorname{id}_B$.
+For a [[Function]] $f:A -> B$ ($A != \emptyset$), $f$ is [[Injectivity and surjectivity|Surjective]] if and only it has a right inverse i.e. there exists a function $g:B -> A$ such that $f\circ g = \operatorname{id}_B$.
 ##### Proof:
-- Surjective $\implies$ right inverse:
+- Surjective $ ==> $ right inverse:
 	Let $\sim$ be the [[Kernel]] of $f$ and$$
 	
-		g_1:B&\to A/\!\!\sim\
+		g_1:B& -> A/\!\!\sim\
 		b&\mapsto [a] &&\text{where $f(a)=b$}\
-		g_2:A/\!\!\sim &\to A\
+		g_2:A/\!\!\sim & -> A\
 		[a]&\mapsto s &&\text{with $s in [a]$ chosen arbitrarily}
 	
 	$$
@@ -29,7 +29,7 @@ For a [[Function]] $f:A\to B$ ($A != \emptyset$), $f$ is [[Injectivity and surje
 			&= b
 			
 		$$So $g=g_2\circ g_1$ is a right inverse of $f$.
-- Right inverse $\implies$ surjective:
+- Right inverse $ ==> $ surjective:
 	Let $b in B$, then$$
 	
 		b&=\operatorname{id}_B(b)\

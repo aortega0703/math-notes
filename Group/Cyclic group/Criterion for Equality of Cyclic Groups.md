@@ -12,7 +12,7 @@ For a group $G$ and $a in G$
 - $\langle a^i \rangle = \langle a^j \rangle$ if and only if $\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$.
 - $|a^i| = |a^j|$ if and only if $\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$.
 ##### Proof:
-- $\implies$:$$
+- $ ==> $:$$
 	
 		\langle a^i \rangle 
 			&= \langle a^j \rangle\

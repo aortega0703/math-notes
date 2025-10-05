@@ -6,7 +6,7 @@ related topics:
 tags:
   - theorem
   - math/abstract_algebra
-mathLink: $Z(G)  lt.eq G$
+mathLink: $Z(G) lt.eq G$
 ---
 For a [[Group]] $G$, its center $Z(G)$ is a [[Subgroup]] of $G$.
 ##### Proof:

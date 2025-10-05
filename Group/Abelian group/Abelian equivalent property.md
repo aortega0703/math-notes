@@ -4,11 +4,11 @@ tags:
   - math/abstract_algebra
 related topics:
   - "[[Abelian group]]"
-mathLink: $ab=ba  <==> (ab)^{-1}=a^{-1}b^{-1}$
+mathLink: $ab=ba <==> (ab)^{-1}=a^{-1}b^{-1}$
 ---
 For a [[Group]] $G$, $G$ is [[Group|Abelian]] if and only if $(ab)^{-1}=a^{-1}b^{-1}$.
 ##### Solution:
-- $\implies$:
+- $ ==> $:
 	By [[Socks-shoes property]]$$
 	
 		(ab)^{-1}

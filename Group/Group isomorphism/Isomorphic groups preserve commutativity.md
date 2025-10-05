@@ -8,8 +8,8 @@ related topics:
 ---
 For [[Group|groups]] $G\cong H$, $G$ is commutative if and only if $H$ is commutative.
 ##### Proof:
-Let $\phi: G\to H$ be an isomorphism.
-- $G$ commutative $\implies H$ commutative:
+Let $\phi: G -> H$ be an isomorphism.
+- $G$ commutative $ ==> H$ commutative:
 	Let $h_1,h_2 in H$, then$$
 	
 		h_1h_2

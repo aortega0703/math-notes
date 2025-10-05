@@ -9,6 +9,6 @@ reference:
 ---
 A [[Category|categories]] $\mathcal{C}$ and $\mathcal{C}'$, $\mathcal{C}'$ is a _subcategory_ of $\mathcal{C}$ if
 - $\operatorname{Obj}(\mathcal{C}')\subseteq\operatorname{Obj}{\mathcal{C}}$.
-- For all $A,B  in \operatorname{Obj}(\mathcal{C}')$, $\operatorname{Hom}_{\mathcal{C}'}(A,B) \subseteq \operatorname{Hom}_{\mathcal{C}}(A,B)$.
+- For all $A,B in \operatorname{Obj}(\mathcal{C}')$, $\operatorname{Hom}_{\mathcal{C}'}(A,B) \subseteq \operatorname{Hom}_{\mathcal{C}}(A,B)$.
 - Shares identities and composition with $\mathcal{C}$.
-A subcategory is _full_ when for all $A,B  in \operatorname{Obj}(\mathcal{C}')$, $\operatorname{Hom}_{\mathcal{C}'}(A,B) = \operatorname{Hom}_{\mathcal{C}}(A,B)$.
+A subcategory is _full_ when for all $A,B in \operatorname{Obj}(\mathcal{C}')$, $\operatorname{Hom}_{\mathcal{C}'}(A,B) = \operatorname{Hom}_{\mathcal{C}}(A,B)$.

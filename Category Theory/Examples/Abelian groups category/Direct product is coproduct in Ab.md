@@ -8,14 +8,14 @@ related topics:
   - "[[Direct product]]"
   - "[[Coproduct]]"
 ---
-For [[Abelian group|Abelian groups]] $A,B$, their [[Direct product]] $A\times B$ is a [[Coproduct]] in $\mathbf{Ab}$ with the functions$$
+For [[Abelian group|Abelian groups]] $A,B$, their [[Direct product]] $A times B$ is a [[Coproduct]] in $\mathbf{Ab}$ with the functions$$
 
 	\begin{aligned}
-		\iota_A : A &\to A\times B\
+		\iota_A : A & -> A times B\
 		a &\mapsto (a, e_B)
 	\end{aligned}\qquad
 	\begin{aligned}
-		\iota_B : B &\to A\times B\
+		\iota_B : B & -> A times B\
 		b &\mapsto (e_A, b)
 	\end{aligned}
 
@@ -23,9 +23,9 @@ $$
 ##### Proof:
 ![[coproduct.png]]
 
-Consider homomorphisms $\phi: A \to X$ and $\psi: B\to X$ and the function$$
+Consider homomorphisms $\phi: A -> X$ and $\psi: B -> X$ and the function$$
 
-	\phi\cdot\psi : A\times B &\to X\
+	\phi\cdot\psi : A times B & -> X\
     (a,b) &\mapsto \phi(a)\psi(b)
 
 $$
@@ -50,7 +50,7 @@ $$
     &= (\phi\cdot\psi)(a_1,b_1) \cdot (\phi\cdot\psi)(a_2,b_2)
   
   $$making $\psi\cdot\psi$ an homomorphism. Note that this is not necessarily true when $X$ is no abelian as we need $\phi(a_2)$ and $\psi(b_1)$ to commute.
-- $A\times B$ is a coproduct:
+- $A times B$ is a coproduct:
   Let $a in A$, then$$
   
     (a)\iota_A(\phi\cdot\psi)
@@ -60,4 +60,4 @@ $$
     &= \phi(a)
   
   $$So by extensionality $\iota_A(\phi\cdot\psi) = \phi$. Similarly $\iota_B(\phi\cdot\psi) = \psi$.
-Then $A\times B$ is a coproduct in $\mathbf{Ab}$.
+Then $A times B$ is a coproduct in $\mathbf{Ab}$.

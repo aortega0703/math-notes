@@ -11,11 +11,11 @@ For $1 lt.eq d lt.eq n$, there is some $\sigma in S_n$ with [[Order]] $d$.
 By induction on $n$.
 - $\mathcal{P}(1)$:
 	$e in S_1$ by definition of [[Group]], and $|e|=1$.
-- $\mathcal{P}(n)\implies \mathcal{P}(n+1)$:
+- $\mathcal{P}(n) ==> \mathcal{P}(n+1)$:
 	- Case $d lt.eq n$:
 		By induction there is some $\sigma in S_n$ such that $|\sigma|=d$, consider$$
 		
-			\sigma':  ZZ/(n+1) ZZ &\to  ZZ/(n+1) ZZ\
+			\sigma': ZZ/(n+1) ZZ & -> ZZ/(n+1) ZZ\
 			s &\mapsto
 			\begin{cases}
 				\sigma(s) &\text{if $s lt.eq n$}\
@@ -24,7 +24,7 @@ By induction on $n$.
 		
 		$$
 		- Injectivity:
-			Let $1 lt.eq s,s' lt.eq n+1$. If $s,s' lt.eq n$ then $\sigma'(s)=\sigma(s)$ and $\sigma'(s')=\sigma(s')$, so $\sigma'(s)=\sigma'(s')$ implies $s=s'$ by injectivity of $\sigma$.  If $s lt.eq n$ and $s'=n+1$ (or vice versa) then $\sigma'(s)=\sigma(n)<n+1=\sigma'(s)'$. So $\sigma'(s)=\sigma'(s')$ implies $s=s'$ for all $s,s'$ making $\sigma'$ injective.
+			Let $1 lt.eq s,s' lt.eq n+1$. If $s,s' lt.eq n$ then $\sigma'(s)=\sigma(s)$ and $\sigma'(s')=\sigma(s')$, so $\sigma'(s)=\sigma'(s')$ implies $s=s'$ by injectivity of $\sigma$. If $s lt.eq n$ and $s'=n+1$ (or vice versa) then $\sigma'(s)=\sigma(n)<n+1=\sigma'(s)'$. So $\sigma'(s)=\sigma'(s')$ implies $s=s'$ for all $s,s'$ making $\sigma'$ injective.
 		- Surjectivity:
 			Let $1 lt.eq s lt.eq n+1$. If $s lt.eq n$ then $s=\sigma(s')=\sigma'(s')$ for some $s' lt.eq n$ by surjectivity of $\sigma$. If $s=n+1$ then $s=\sigma'(n+1)$. So $\text{Im}(\sigma') = \text{Cod}(\sigma')$ making $\sigma'$ surjective.
 		Then $\sigma'$ is a bijection (it permutes $ ZZ/(n+1) ZZ$) so $\sigma' in S_{n+1}$.
@@ -36,7 +36,7 @@ By induction on $n$.
 	- Case $d = n+1$:
 		Consider$$
 		
-			\sigma:  ZZ/(n+1) ZZ &\to  ZZ/(n+1) ZZ\
+			\sigma: ZZ/(n+1) ZZ & -> ZZ/(n+1) ZZ\
 			s &\mapsto
 			\begin{cases}
 				s+1 &\text{if $s lt.eq n$}\

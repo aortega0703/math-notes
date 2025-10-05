@@ -47,11 +47,11 @@ $$
 		In particular for $x=\sigma$, if $(\sigma^{n/2}\tau)\sigma=\sigma(\sigma^{n/2}\tau)$ then $\sigma\sigma^{n/2}=(\sigma^{n/2}\tau)\sigma\tau=\sigma^{n/2}\sigma^{-1}$ and $\sigma=\sigma^{-1}$ which is only true in $D_{4}$.
 	The [[Cayley table]] for $D_4$ is the following
 
-| $\cdot$   | $e$       | $R_{180}$ | $H$       | $V$       |
+| $\cdot$ | $e$ | $R_{180}$ | $H$ | $V$ |
 | --------- | --------- | --------- | --------- | --------- |
-| $e$       | $e$       | $R_{180}$ | $H$       | $V$       |
-| $R_{180}$ | $R_{180}$ | $e$       | $V$       | $H$       |
-| $H$       | $H$       | $V$       | $e$       | $R_{180}$ |
-| $V$       | $V$       | $H$       | $R_{180}$ | $e$       |
+| $e$ | $e$ | $R_{180}$ | $H$ | $V$ |
+| $R_{180}$ | $R_{180}$ | $e$ | $V$ | $H$ |
+| $H$ | $H$ | $V$ | $e$ | $R_{180}$ |
+| $V$ | $V$ | $H$ | $R_{180}$ | $e$ |
 	Therefore $\tau$ and $\sigma\tau$ do commute in $D_4$.
 Then in $D_{2n}$ the element $e$ commutes with all elements. Additionally if $n$ is even, $\sigma^{n/2}$ ($=R_{180}$) commutes with all elements. Additionally if $n=2$ ($D_4$), $\tau$ and $\sigma\tau$ ($H$ and $V$) commute with all elements.

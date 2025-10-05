@@ -6,7 +6,7 @@ tags:
 related topics:
   - "[[Equivalence relation]]"
 ---
-For a [[Function]] $f:A\to S$, the _kernel_ of $f$ is an [[Equivalence relation]] $\sim_f$ such that $a \sim_f b$ when $f(a) = f(b)$.
+For a [[Function]] $f:A -> S$, the _kernel_ of $f$ is an [[Equivalence relation]] $\sim_f$ such that $a \sim_f b$ when $f(a) = f(b)$.
 ##### Proof:
 - Reflexivity:
 	Let $a in A$, then $f(a)=f(a)$ so $a\sim_f a$.

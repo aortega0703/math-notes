@@ -10,10 +10,10 @@ aliases:
   - Epic
   - Monic
 ---
-- A [[Category|Morphism]] $f: B \to C$ is monic (often $f: B \hookrightarrow C$) when for all $g,h: A \to B$$$
-	f \circ g= f \circ h \implies g=h
+- A [[Category|Morphism]] $f: B -> C$ is monic (often $f: B \hookrightarrow C$) when for all $g,h: A -> B$$$
+	f \circ g= f \circ h ==> g=h
 $$
-- A [[Category|Morphism]] $f: A \to B$ is epic (often $f: A \twoheadrightarrow B$) when for all $g,h: B \to C$, $$
-	g \circ f = h \circ f \implies g=h
+- A [[Category|Morphism]] $f: A -> B$ is epic (often $f: A \twoheadrightarrow B$) when for all $g,h: B -> C$, $$
+	g \circ f = h \circ f ==> g=h
 $$
 Monomorphisms and Epimorphisms are [[Opposite category|Dual]] concepts.

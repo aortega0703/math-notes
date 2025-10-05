@@ -8,11 +8,11 @@ related topics:
   - "[[Injectivity and surjectivity|Injectivity]]"
   - "[[Injectivity and surjectivity|Surjectivity]]"
 ---
-For a [[Function]] $f:A\to B$ and its [[Kernel]] $\sim$, $f$ decomposes as follows
+For a [[Function]] $f:A -> B$ and its [[Kernel]] $\sim$, $f$ decomposes as follows
 ![[Canonical decomposition.png]]
 where $[\cdot]$ is the [[Canonical projection]], $i$ is the [[Inclusion map]], and$$
 
-	\tilde{f} : A/\!\!\sim&\overset{\sim}{\to} \operatorname{Im}f\
+	\tilde{f} : A/\!\!\sim& arrow.r.tilde \operatorname{Im}f\
 	[a] &\mapsto f(a)
 
 $$is a [[Injectivity and surjectivity|Bijection]].

@@ -5,9 +5,9 @@ tags:
 related topics:
   - "[[Isomorphism]]"
 ---
-For an [[Isomorphism]] $f:A\overset{\sim}{\to} B$, its inverse $f^{-1}: B \to A$ is unique.
+For an [[Isomorphism]] $f:A arrow.r.tilde B$, its inverse $f^{-1}: B -> A$ is unique.
 ##### Proof:
-Let $g,h: B\to A$ be inverses of $f$, then$$
+Let $g,h: B -> A$ be inverses of $f$, then$$
 
 	\operatorname{id}_A &= \operatorname{id}_A\
 	g\circ f &= h \circ f\

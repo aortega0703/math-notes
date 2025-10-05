@@ -6,7 +6,7 @@ related topics:
   - "[[Group homomorphism]]"
   - "[[Order]]"
 ---
-Let $\phi: G\to H$ be a [[Group homomorphism]] and let $g in G$ an element of finite [[Order]]. Then$$
+Let $\phi: G -> H$ be a [[Group homomorphism]] and let $g in G$ an element of finite [[Order]]. Then$$
 	|\phi(g)| \text{ divides } |g|
 $$
 ##### Proof:

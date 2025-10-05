@@ -9,7 +9,7 @@ related topics:
 ---
 For any [[Group]] $G$ and set $A$, $G^A = \text{Hom}_\mathbf{Set}(A, G)$ is a group with the operation $$
 
-	+:G^A\times G^A &\to G^A\
+	+:G^A times G^A & -> G^A\
 	f,g&\mapsto f(\_)\cdot g(\_)
 
 $$
@@ -29,7 +29,7 @@ $$
 - Identity:
 	Consider$$
 	
-		e: A &\to G\
+		e: A & -> G\
 		a &\mapsto e_G
 	
 	$$and let $f in G^A$, and $a in A$. Then$$
@@ -43,7 +43,7 @@ $$
 - Inverses:
 	Let $f in G^A$ and consider$$
 	
-		-f: A &\to G\
+		-f: A & -> G\
 		a &\mapsto (f(a))^{-1}
 	
 	$$let $a in A$, then$$

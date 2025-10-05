@@ -9,7 +9,7 @@ related topics:
 ---
 For any [[Abelian group]] $G$ and set $A$, $G^A = \text{Hom}_\mathbf{Set}(A, G)$ is an abelian group with the operation $$
 
-	+:G^A\times G^A &\to G^A\
+	+:G^A times G^A & -> G^A\
 	f,g&\mapsto f(\_)\cdot g(\_)
 
 $$

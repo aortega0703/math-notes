@@ -8,11 +8,11 @@ related topics:
   - "[[Cyclic group]]"
 mathLink: $\langle a^k\rangle = \langle a^{gcd(|a|,k)}\rangle$ and $|a^k| = |a|/gcd(|a|,k)$
 ---
-For a [[Group]] $G$, $a in G$ and $k in  ZZ^+$, $\langle a^k\rangle = \langle a^{\operatorname{gcd}(|a|,k)}\rangle$ and $|a^k| = |a|/\operatorname{gcd}(|a|,k)$.
+For a [[Group]] $G$, $a in G$ and $k in ZZ^+$, $\langle a^k\rangle = \langle a^{\operatorname{gcd}(|a|,k)}\rangle$ and $|a^k| = |a|/\operatorname{gcd}(|a|,k)$.
 ##### Proof:
 - $\langle a^k\rangle = \langle a^{\operatorname{gcd}(|a|,k)}\rangle$:
 	- $\langle a^k\rangle \subseteq \langle a^{\operatorname{gcd}(|a|,k)}\rangle$:
-		By definition $k=q\operatorname{gcd}(k,|a|)$ for some $q in ZZ$, so for $n in  ZZ$$$
+		By definition $k=q\operatorname{gcd}(k,|a|)$ for some $q in ZZ$, so for $n in ZZ$$$
 		
 			\left(a^k\right)^n 
 				&= \left(a^{q\operatorname{gcd}(k,|a|)}\right)^n\

@@ -23,4 +23,4 @@ Let $S=\{d=as+bt: s,t in ZZ, d>0\}$ and by [[Well ordering principle]] let $d=\o
 		d &= as + bt quad\text{for some $s,t in ZZ$}\
 			&= (nd')s + (md')t\
 			&= (ns + mt)d'
-	$$If $ns + mt<0$ then $d'<0$ so $d'< d$. If $ns + mt > 0$ then $d' lt.eq d$. Finally $ns + mt  != 0$ as it would make $g=0$. Therefore $d \geq d'$ for all divisors $d'$.
+	$$If $ns + mt<0$ then $d'<0$ so $d'< d$. If $ns + mt > 0$ then $d' lt.eq d$. Finally $ns + mt != 0$ as it would make $g=0$. Therefore $d \geq d'$ for all divisors $d'$.

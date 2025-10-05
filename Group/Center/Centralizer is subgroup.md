@@ -6,7 +6,7 @@ related topics:
 tags:
   - theorem
   - math/abstract_algebra
-mathLink: $C(x)  lt.eq G$
+mathLink: $C(x) lt.eq G$
 ---
 For a [[Group]] $G$ and $x in G$, the [[Centralizer]] $C(x)$ is a [[Subgroup]] of $G$.
 ##### Proof:

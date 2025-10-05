@@ -11,14 +11,14 @@ In a [[Vector Space]] $V$ over $F$, $av= bold(0)$ implies $a=0$ or $v= bold(0)$ 
 By cases
 - Case $a != 0$:$$
 	
-		av &=  bold(0)\
-		a^{-1}av &=  bold(0)\tag{1}\
-		v &=  bold(0)
+		av &= bold(0)\
+		a^{-1}av &= bold(0)\tag{1}\
+		v &= bold(0)
 	$$
 [^1]: by [[Multiplication by 0 (vector)]].
-- Case $v !=  bold(0)$:$$
+- Case $v != bold(0)$:$$
 	
-		av &=  bold(0)\
+		av &= bold(0)\
 		av + v &= v\
 		av + 1v &= v\
 		(a+1)v &= v\

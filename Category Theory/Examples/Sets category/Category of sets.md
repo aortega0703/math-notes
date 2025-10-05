@@ -19,9 +19,9 @@ The category of sets (denoted $\mathbf{Set}$) is defined by the data
 This data does describe a [[Category]].
 ##### Proof:
 - Identity:
-	For every set $A$ there exists an [[Identity function]] $\operatorname{id}_A: A\to A$.
+	For every set $A$ there exists an [[Identity function]] $\operatorname{id}_A: A -> A$.
 - Composition:
-	For functions $A\overset{f}{\to}B\overset{g}{\to}C$ there is a function $g\circ f: A\to C$ defined as in [[Function|Function composition]].
+	For functions $A\overset{f}{ -> }B\overset{g}{ -> }C$ there is a function $g\circ f: A -> C$ defined as in [[Function|Function composition]].
 - Unitality:
 	By [[Identity function is unital]].
 - Associativity:

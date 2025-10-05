@@ -7,6 +7,6 @@ related topics:
 ---
 In [[Integers modulo n (set)]] modular addition is defined as$$
 
-	+_n:\hspace{-1.5em}&& ZZ/n &\to  ZZ/n\
+	+_n:\hspace{-1.5em}&& ZZ/n & -> ZZ/n\
 	&&a +_n b &\mapsto a + b\ (\operatorname{mod}\ n)
 $$

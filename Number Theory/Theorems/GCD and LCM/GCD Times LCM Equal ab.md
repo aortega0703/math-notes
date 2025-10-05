@@ -25,7 +25,7 @@ $$So $q$ is a multiple of $a$ and $b$. Now let $m$ be another multiple of $a$ an
 
 	m&=ac\
 	&=a'\gcd(a,b)c\
-	b&\ \  |\ \ a'\gcd(a,b)c quad\text{(by hypothesis $b$ divides $m$)}\
+	b&\ \ |\ \ a'\gcd(a,b)c quad\text{(by hypothesis $b$ divides $m$)}\
 	b'\gcd(a,b)&\ \ |\ \ a'\gcd(a,b)c\
 	b'&\ \ |\ \ a'c\
 	b'&\ \ |\ \ c\tag{1}\

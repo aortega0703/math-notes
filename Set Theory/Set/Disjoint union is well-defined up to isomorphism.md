@@ -8,9 +8,9 @@ related topics:
 ---
 If $A' \cong A''$ and $B' \cong B''$, and $A'\cap B' = \emptyset$ and $A''\cap B'' = \emptyset$, then $A' \cup B' \cong A'' \cup B''$. Meaning $A \amalg B$ is well-defined up to isomorphism.
 ##### Proof:
-As $A' \cong A''$ and $B' \cong B''$ let $f_A: A'\overset{\sim}{\to} A''$ and $f_B: B'\overset{\sim}{\to}B''$ be their corresponding bijections. Let$$
+As $A' \cong A''$ and $B' \cong B''$ let $f_A: A' arrow.r.tilde A''$ and $f_B: B' arrow.r.tilde B''$ be their corresponding bijections. Let$$
 
-	f: A'\cup B' &\overset{\sim}{\to} A'' \cup B''\
+	f: A'\cup B' & arrow.r.tilde A'' \cup B''\
 	s &\mapsto
 	\begin{cases}
 		f_A(s) &\text{if $s in A'$}\
@@ -22,7 +22,7 @@ $$
 	$f_A(s)$ and $f_B(s)$ are both well-defined. Then for $f$ to be ill-defined it has to map $s$ to both $f_A(s)$ and $f_A(s)$, meaning $s in A' \cap B'=\emptyset$, as there is no such $s$, $f$ is well-defined.
 - $f$ is injective:
 	Let $s_1,s_2 in A'\cup B'$ such that $f(s_1)=f(s_2)$.
-	- Case $s_1, s_2  in A'$:$$
+	- Case $s_1, s_2 in A'$:$$
 		
 			f(s_1) &= f(s_2)\
 			f_A(s_1) &= f_A(s_2)\

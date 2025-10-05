@@ -8,7 +8,7 @@ related topics:
 ---
 For any [[Equivalence relation|equivalence relation]] $\sim$ on a [[Set|set]] $S$, the equivalence classes of $\sim$ constitute a [[Partition|partition]] of $S$. Conversely, for any [[Partition|partition]] $P$ of a [[Set|set]] $S$, there is an [[Equivalence relation|equivalence relation]] on $S$ whose [[Equivalence relation|equivalence classes]] are the elements of $P$.
 ##### Proof:
-- Equivalence relation $\implies$ partition:
+- Equivalence relation $ ==> $ partition:
 	- ${\displaystyle\bigcup_{a in S}} \overline{a}=S$:
 		$a in \overline{a}\subseteq S$ for all $a in S$, then $\overline{a} != \emptyset$ and ${\bigcup_{a in S}} \overline{a}=S$.
 	- $\overline{a}\cap \overline{b} !=\emptyset$ implies $\overline{a}= \overline{b}$:

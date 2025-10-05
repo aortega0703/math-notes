@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Identity function]]"
 ---
-For $A\overset{f}{\to} B\overset{g}{\to}C$$$
+For $A\overset{f}{ -> } B\overset{g}{ -> }C$$$
 g\circ\operatorname{id}_B=g, quad \operatorname{id}_B\circ f = f$$
 which is to say, the following commute
 ![[Identity function left cancel.png]]![[Identity function right cancel.png]]

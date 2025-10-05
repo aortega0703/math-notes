@@ -5,11 +5,11 @@ tags:
 related topics:
   - "[[Division|Modulo]]"
   - "[[Greatest Common Divisor|GCD]]"
-mathLink: $ax\equiv 1\ \operatorname{mod}n  <==> \gcd(a,n)=1$
+mathLink: $ax\equiv 1\ \operatorname{mod}n <==> \gcd(a,n)=1$
 ---
 For $a,n in ZZ$, $ax\equiv 1\ (\operatorname{mod}\ n)$ has a solution for $x$ if and only if $a$ and $n$ are [[Greatest Common Divisor|Relative Primes]].
 ##### Proof:
-- $\implies$:
+- $ ==> $:
 	By definition$$
 	
 		ax &= qn + 1 quad\text{for some $q in ZZ$}\

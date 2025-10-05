@@ -21,7 +21,7 @@ The notation for defining sets can be
 	$$is the set whose elements are the integers from $1$ to $10$.
 - Intensional:
 	The elements are described by a property, and taken from a larger known set e.g.$$
-		\{n in ZZ\ |\ 1 lt.eq n  lt.eq 10\}
+		\{n in ZZ\ |\ 1 lt.eq n lt.eq 10\}
 	$$is the set whose elements are the integers from $1$ to $10$.
 - Ostensive:
 	The elements are implied via examples e.g.$$

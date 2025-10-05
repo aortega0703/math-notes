@@ -4,6 +4,6 @@
 - [ ] Abstract Algebra
 - [ ] Linear Algebra
 - [ ] Topology
-- [ ] Algebraic Topology  (?)
+- [ ] Algebraic Topology (?)
 - [ ] Homotopy Type Theory
 - [ ] Geometric Algebra

@@ -9,7 +9,7 @@ mathLink: $\gcd(a,n) = \gcd(a\ \operatorname{mod}\ n,\ n)$
 ---
 For all $a,b,n in ZZ$
 $$
-a\equiv b\ (\text{mod }n) \implies \gcd(a,n) = \gcd(b,n)
+a\equiv b\ (\text{mod }n) ==> \gcd(a,n) = \gcd(b,n)
 $$
 ##### Proof:
 - $\gcd(a,n) lt.eq\gcd(b,n)$:

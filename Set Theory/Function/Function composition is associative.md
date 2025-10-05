@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Function]]"
 ---
-For [[Function|functions]] $A \overset{f}{\to} B \overset{g}{\to} C \overset{h}{\to} D$, $h\circ(g\circ f)= (h\circ g)\circ f$ (function composition is associative). i.e. the following commutes
+For [[Function|functions]] $A \overset{f}{ -> } B \overset{g}{ -> } C \overset{h}{ -> } D$, $h\circ(g\circ f)= (h\circ g)\circ f$ (function composition is associative). i.e. the following commutes
 ![[Function composition associative.png]]
 ##### Proof:
 Let $a in A$, then$$

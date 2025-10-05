@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Isomorphism]]"
 ---
-For an [[Isomorphism]] $f:A\to B$ and its inverse $f^{-1}:B\to A$
+For an [[Isomorphism]] $f:A -> B$ and its inverse $f^{-1}:B -> A$
 - $f^{-1}$ is an isomorphism.
 - $(f^{-1})^{-1} = f$.
 ##### Proof:

@@ -8,7 +8,7 @@ related topics:
 ---
 For a finite set of integers $S$, every (positive) common multiple of $S$ is a multiple of $\operatorname{lcm}(S)$.
 ##### Proof:
-Let $(m>0) in  ZZ$ such that $s | m$ for all $s in S$, then by [[Division algorithm]]
+Let $(m>0) in ZZ$ such that $s | m$ for all $s in S$, then by [[Division algorithm]]
 $$
 
 	\exists (0 lt.eq r<\operatorname{lcm}(S)),q in ZZ. quad 

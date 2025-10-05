@@ -9,7 +9,7 @@ related topics:
 ---
 For sets $A\subseteq S$ the _inclusion map_$$
 
-	i_A : A&\to S\
+	i_A : A& -> S\
 	a&\mapsto a
 
 $$that sends an object to itself is [[Injectivity and surjectivity|Injective]].

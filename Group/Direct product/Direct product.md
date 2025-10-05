@@ -9,14 +9,14 @@ related topics:
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
-For groups $G,H$ their _direct product_ is a group on the [[Set]] $G\times H$ with the operation$$
+For groups $G,H$ their _direct product_ is a group on the [[Set]] $G times H$ with the operation$$
 
-	\cdot: (G\times H)\times(G\times H) &\to (G\times H)\
+	\cdot: (G times H) times(G times H) & -> (G times H)\
 	\big((g_1,h_1),\ (g_2,h_2)\big) &\mapsto (g_1 g_2, h_1 h_2)
 
 $$
 ---
-$G\times H$ is a group.
+$G times H$ is a group.
 ##### Proof:
 - Closed under multiplication:
 	By the definition of the operation.
@@ -30,7 +30,7 @@ $G\times H$ is a group.
 		&= (g_1,h_1)\cdot\big((g_2,h_2)\cdot(g_3, h_3)\big)\
 	
 	$$
-	So multiplication on $G\times H$ is associative.
+	So multiplication on $G times H$ is associative.
 - Identity:
 	Let $g in G$ and $h in H$, then$$
 	
@@ -41,7 +41,7 @@ $G\times H$ is a group.
 		&= (g,h)\cdot(e_G, e_H)
 	
 	$$
-	So $(e_G, e_H) in G\times H$ is the identity.
+	So $(e_G, e_H) in G times H$ is the identity.
 - Inverses:
 	Let $g in G$ and $h in H$, then $$
 	
@@ -53,4 +53,4 @@ $G\times H$ is a group.
 	
 	$$
 	So $(g,h)^{-1}=(g^{-1},h^{-1})$.
-Then $G\times H$ is a group.
+Then $G times H$ is a group.

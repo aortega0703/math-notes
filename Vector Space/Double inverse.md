@@ -11,7 +11,7 @@ In a [[Vector Space]] $V$, $-(-v)=v$ for all $v in V$.
 $$
 
 	- (-v) + (-v)
-		&=  bold(0)\
+		&= bold(0)\
 	- (-v) + (-v) + v &= v\
 	- (-v) + (-v + v) &= v\
 	-(-v) &= v

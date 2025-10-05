@@ -15,7 +15,7 @@ Every integer $n>1$ is a prime or a product of primes. This product is unique sa
 		Let $S=\{d:d|n+1, 1<d<n+1\}$. If $S=\emptyset$ then $n+1$ is prime by definition. If $S != \emptyset$ by [[Well ordering principle]] let $p=min(S)$ which is prime by [[Least divisor is prime]]. Then for some $1<u<n+1$$$
 		
 			n+1 &= pu\
-				&= p \prod_{i} p_i  quad\text{by induction}
+				&= p \prod_{i} p_i quad\text{by induction}
 		$$
 		So $n+1$ is the product of primes.
 	Therefore every $n$ is a prime or the product of primes.

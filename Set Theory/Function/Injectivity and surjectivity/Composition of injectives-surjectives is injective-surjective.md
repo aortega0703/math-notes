@@ -10,7 +10,7 @@ related topics:
 aliases:
   - Inverse function
 ---
-For functions $f: A\to B$ and $g: B \to C$
+For functions $f: A -> B$ and $g: B -> C$
 1. If $f$ and $g$ are injective, then $g\circ f$ is injective.
 2. If $f$ and $g$ are surjective, then $g\circ f$ is surjective.
 3. If $f$ and $g$ are bijective, then $g\circ f$ is bijective.
@@ -21,7 +21,7 @@ For functions $f: A\to B$ and $g: B \to C$
 		g(f(a)) &= g(f(a'))\
 		f(a) &= f(a')\
 		a &= a'
-	$$So $(g\circ f)(a) = (g\circ f)(a') \implies a = a'$.
+	$$So $(g\circ f)(a) = (g\circ f)(a') ==> a = a'$.
 2. Let $c in C$, then$$
 	
 		c &= g(b)&\text{for some $b in B$}\

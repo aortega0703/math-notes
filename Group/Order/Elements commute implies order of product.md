@@ -10,7 +10,7 @@ For elements $g,h$ in a [[Group]],
 - if $gh=hg$, then $|gh|$ divides $\text{lcm}(|g|,|h|)$.
 - if additionally $\gcd(|g|, |h|)=1$, then $|gh|=|g||h|$.
 ##### Proof:
-- $gh=hg$ $\implies$ $|gh|$ divides $\text{lcm}(|g|,|h|)$:
+- $gh=hg$ $ ==> $ $|gh|$ divides $\text{lcm}(|g|,|h|)$:
 	$$
 	
 		g^{\text{lcm}(|g|,|h|)} = h^{\text{lcm}(|g|,|h|)}&=e\
@@ -20,7 +20,7 @@ For elements $g,h$ in a [[Group]],
 	
 	$$
 	where $(1)$ is by [[Law of exponents for commutative elements]], then by [[Order divides exponent]] $|gh|$ divides $\text{lcm}(|g|,|h|)$.
-- $gh=hg$ and $\gcd(|g|,|h|)=1$ $\implies$ $|gh|=|g||h|$:
+- $gh=hg$ and $\gcd(|g|,|h|)=1$ $ ==> $ $|gh|=|g||h|$:
 	- $|gh|$ divides $|g||h|$:
 		By the previous result $|gh|$ divides $\text{lcm}(|g|,|h|)=|g||h|/\gcd(|g||h|)=|g||h|$.
 	- $|g||h|$ divides $|gh|$:

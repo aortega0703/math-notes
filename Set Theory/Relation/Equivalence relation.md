@@ -13,7 +13,7 @@ reference:
 An _equivalence relation_ $R$ on a [[Set]] $S$ is a [[Relation]] that satisfies (for $x,y,z in S$)
 - Reflexivity:$$xRx$$
 - Commutativity:$$xRy <==> yRx$$
-- Transitivity:$$xRy\land yRz \implies xRz$$
+- Transitivity:$$xRy\land yRz ==> xRz$$
 The _equivalence class_ of $x$ is defined as:$$
 	\overline{x} = \{y in S: x\sim y\}
 $$

@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Cyclic group]]"
   - "[[Order]]"
-mathLink: $b in\langle a \rangle \implies |b|$ divides $|a|$
+mathLink: $b in\langle a \rangle ==> |b|$ divides $|a|$
 ---
 In a finite [[Cyclic group]] $G$, the order of an element $a in G$ divides the order of the group.
 ##### Proof:

@@ -14,10 +14,10 @@ In [[Integers modulo n (set)]] [[Modular multiplication]] has the following prop
 			(ab)c \equiv a(bc) quad(\text{mod}\ n)
 	$$
 - Has identity $1$:$$
-			a1 \equiv a  quad(\text{mod}\ n)
+			a1 \equiv a quad(\text{mod}\ n)
 	$$
 - Preserves [[Congruence under modulo]]:$$
-			(a\equiv_n b) \land (a'\equiv_n b')\implies aa'\equiv_n bb'
+			(a\equiv_n b) \land (a'\equiv_n b') ==> aa'\equiv_n bb'
 	$$
 ##### Proof:
 - is commutative:
@@ -45,7 +45,7 @@ In [[Integers modulo n (set)]] [[Modular multiplication]] has the following prop
 		&= kk'n^2 + knb' + k'nb + bb'\
 		aa' - bb' &= n(kk'n + kb' + k'b)\
 		n&\ \ |\ \ aa'-bb'\
-		aa' &\equiv bb'  quad(\text{mod }n)
+		aa' &\equiv bb' quad(\text{mod }n)
 	
 	$$
 	

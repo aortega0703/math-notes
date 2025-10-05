@@ -11,7 +11,7 @@ For a [[Group]] $G$ and $g,h in G$, $|gh|=|hg|$.
 	By induction on $n$.
 	- $\mathcal{P}(0)$:
 		$ag^0a^{-1}=aa^{-1}=e=(aga^{-1})^0$.
-	- $\mathcal{P}(n)\implies\mathcal{P}(n+1)$:
+	- $\mathcal{P}(n) ==> \mathcal{P}(n+1)$:
 		$$
 		
 			(aga^{-1})^{n+1} 

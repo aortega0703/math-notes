@@ -7,7 +7,7 @@ related topics:
   - "[[Divisibility|Prime]]"
 aliases:
   - p Divides Product Implies p Divides Factors
-mathLink: $p|ab \implies p|a \lor p|b$
+mathLink: $p|ab ==> p|a \lor p|b$
 ---
 For $a,b,p in ZZ$, if $p$ is a prime that divides $ab$ then $p|a$ or $p|b$.
 ##### Proof:

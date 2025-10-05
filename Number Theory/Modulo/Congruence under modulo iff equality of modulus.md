@@ -13,7 +13,7 @@ For $a,b,n in ZZ$$$
 		= b\ \operatorname{mod} n
 $$
 ##### Proof:
-- $\implies$:
+- $ ==> $:
 	If $a\equiv b\ (\operatorname{mod}\ n)$ then$$
 	
 		a-b&=kn

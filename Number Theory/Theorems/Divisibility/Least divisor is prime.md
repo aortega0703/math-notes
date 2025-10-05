@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Divisibility]]"
 ---
-For any $n in  ZZ$, the smallest $d>1$ that divides $n$ is prime.
+For any $n in ZZ$, the smallest $d>1$ that divides $n$ is prime.
 ##### Proof:
 Suppose $d$ is not prime, then $d=ab$ for some $1<a,b<d$. As $d|n$ then$$
 

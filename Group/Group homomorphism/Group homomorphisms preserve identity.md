@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Group homomorphism]]"
 ---
-For any [[Group homomorphism]] $\phi:G\to H$$$
+For any [[Group homomorphism]] $\phi:G -> H$$$
 	\phi(e_G) = e_H
 $$
 ##### Proof:

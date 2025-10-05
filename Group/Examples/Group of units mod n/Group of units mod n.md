@@ -9,7 +9,7 @@ aliases:
 reference:
   - "Gallian, J. A. Contemporary Abstract Algebra"
 ---
-For $0<n in  ZZ$, $U(n)=\{0<m<n in ZZ:\gcd(m,n)=1\}\subseteq  ZZ/n$ is a group under multiplication modulo $n$. This is called the group of units modulo $n$ or the multiplicative group of integers modulo $n$, also denoted by $( ZZ/n ZZ)^*$.
+For $0<n in ZZ$, $U(n)=\{0<m<n in ZZ:\gcd(m,n)=1\}\subseteq ZZ/n$ is a group under multiplication modulo $n$. This is called the group of units modulo $n$ or the multiplicative group of integers modulo $n$, also denoted by $( ZZ/n ZZ)^*$.
 ##### Proof:
 For $U(n)$ to be a group it has to have
 - Closure under multiplication:
@@ -29,7 +29,7 @@ For $U(n)$ to be a group it has to have
 		(ab)(ss') &= 1 - nt - nt' + n^2tt'\
 		(ab)(ss') + n(t+t'-ntt') &= 1
 	
-	$$So $\gcd(ab,n) = 1$ and by [[Modulo Preserves GCD]] $\gcd(ab\ \operatorname{mod} n,n) = 1$, so $ab \ \operatorname{mod} n  in U(n)$.
+	$$So $\gcd(ab,n) = 1$ and by [[Modulo Preserves GCD]] $\gcd(ab\ \operatorname{mod} n,n) = 1$, so $ab \ \operatorname{mod} n in U(n)$.
 - Associativity:
 	By [[Modular multiplication]].
 - Identity:

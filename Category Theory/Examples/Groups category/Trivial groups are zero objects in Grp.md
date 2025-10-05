@@ -11,11 +11,11 @@ In $\mathbf{Grp}$, the [[Group|Trivial group]] is a [[Initial-final object|Zero 
 ##### Proof:
 Let $G$ be a group
 - Initial:
-	By [[Group homomorphisms preserve identity]] there is exactly one [[Group homomorphism]] $\phi: \{e\} \to G$, namely $\phi(e)=e_G$.
+	By [[Group homomorphisms preserve identity]] there is exactly one [[Group homomorphism]] $\phi: \{e\} -> G$, namely $\phi(e)=e_G$.
 - Final:
 	By [[Singletons are final objects in category of sets]] there is exactly one function$$
 	
-		\phi:G&\to \{e\}\
+		\phi:G& -> \{e\}\
 		g&\mapsto e
 	
 	$$For any $g,g' in G$, $\phi(g)\phi(g')=ee=e=\phi(gg')$ so $\phi$ is a homomorphism.

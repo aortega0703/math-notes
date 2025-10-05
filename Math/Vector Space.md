@@ -19,12 +19,12 @@ A _vector space_ is a [[Set]] $V$ and a [[Field]] F with [[Binary Operation|Bina
 		(a+b)v &= a v + b v
 	$$
 - Identities for $+,\cdot$: $$
- bold(0) in V  quad s.t. quad bold(0)+v = v\
+ bold(0) in V quad s.t. quad bold(0)+v = v\
 1v=v
 $$
 - Inverses for $+$: $$
 	
-		-v  in V quad s.t.  quad -v + v = 0\
+		-v in V quad s.t. quad -v + v = 0\
 		
 	$$
 # Notation

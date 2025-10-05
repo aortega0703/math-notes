@@ -6,7 +6,7 @@ related topics:
   - "[[Integers]]"
 mathLink: $a = qb + r$
 ---
-For $a,b in  ZZ$ with $b>0$, exist unique $q,r in ZZ$ such that $a=bq+r$ with $0 lt.eq r < b$.
+For $a,b in ZZ$ with $b>0$, exist unique $q,r in ZZ$ such that $a=bq+r$ with $0 lt.eq r < b$.
 ##### Proof:
 - Existence:
 	Let $S=\{a-bk: k in ZZ,\ 0 lt.eq a-bk\}$. $S$ is not empty by cases on $a$
@@ -29,5 +29,5 @@ For $a,b in  ZZ$ with $b>0$, exist unique $q,r in ZZ$ such that $a=bq+r$ with $0
 	
 		r + bq &= r' + bq'\
 		bq - bq' &= r'- r\
-		0 lt.eq b(q-q') &= r'-r  lt.eq r'< b
+		0 lt.eq b(q-q') &= r'-r lt.eq r'< b
 	$$As $0 lt.eq b(q-q') < b$ then $q-q'=0$ and $r'-r=0$ so $q,r$ are unique.

@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Injectivity and surjectivity|Bijectivity]]"
 ---
-For a [[Injectivity and surjectivity|Bijection]] $f:A\overset{\sim}{\to}B$, $f^{-1}:B\overset{\sim}{\to}A$ is also a bijection.
+For a [[Injectivity and surjectivity|Bijection]] $f:A arrow.r.tilde B$, $f^{-1}:B arrow.r.tilde A$ is also a bijection.
 ##### Proof:
 - Injective:
 	By [[Bijective iff inverse]] $f\circ f^{-1}=\operatorname{id}_B$ so $f$ is a left inverse of $f^{-1}$, by [[Injective iff left inverse]] $f^{-1}$ is injective.

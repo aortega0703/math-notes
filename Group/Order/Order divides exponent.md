@@ -5,11 +5,11 @@ related topics:
 tags:
   - theorem
   - math/abstract_algebra
-mathLink: $a^{k} = e  <==> |a| \text{ divides }k$
+mathLink: $a^{k} = e <==> |a| \text{ divides }k$
 ---
-For a [[Group]] $G$ and $a in G$ with $|a|  in  ZZ^+$, $a^{k} =e$ if and only if $|a|$ divides $k$.
+For a [[Group]] $G$ and $a in G$ with $|a| in ZZ^+$, $a^{k} =e$ if and only if $|a|$ divides $k$.
 ##### Proof:
-- $\implies$:
+- $ ==> $:
 	Let $|a| = n$, by [[Division algorithm]] let $k=qn + r$ with $0 lt.eq r < n$, then	$$
 	
 		a^k &= e\
@@ -19,7 +19,7 @@ For a [[Group]] $G$ and $a in G$ with $|a|  in  ZZ^+$, $a^{k} =e$ if and only if
 	
 	$$ The last step begin covered by the $\impliedby$ part of the proof. By definition $n$ is the least positive integer such that $a^n=e$ so $r=0$ and $k$ divides $n$
 - $\impliedby$:
-	Let $|a| = n$ and $k=qn$ for some $q in  ZZ$, then by induction
+	Let $|a| = n$ and $k=qn$ for some $q in ZZ$, then by induction
 	- Case $q=0$:
 		$a^{0n} = a^0 = e$ by definition.
 	- Case $q+1$:$$
