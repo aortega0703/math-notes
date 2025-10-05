@@ -16,7 +16,7 @@ Let $G$ be a group
 	By [[Singletons are final objects in category of sets]] there is exactly one function$$
 	
 		\phi:G& -> \{e\}\
-		g&\mapsto e
+		g& |-> e
 	
 	$$For any $g,g' in G$, $\phi(g)\phi(g')=ee=e=\phi(gg')$ so $\phi$ is a homomorphism.
 As there is exactly one morphism from and to any other object $G$, the trivial group $\{e\}$ is a zero object.

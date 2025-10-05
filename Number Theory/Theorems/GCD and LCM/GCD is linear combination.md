@@ -4,11 +4,11 @@ tags:
   - math/number_theory
 related topics:
   - "[[Greatest Common Divisor|GCD]]"
-mathLink: $\operatorname{gcd}(a,b)=as+bt$
+mathLink: $op("gcd")(a,b)=as+bt$
 ---
-For $a,b in ZZ$ with $a,b != 0$, there exist $s,t in ZZ$ such that $\operatorname{gcd}(a,b)=as+bt$. Moreover $\operatorname{gcd}(a,b)$ is the smallest positive integer of the form $as+bt$.
+For $a,b in ZZ$ with $a,b != 0$, there exist $s,t in ZZ$ such that $op("gcd")(a,b)=as+bt$. Moreover $op("gcd")(a,b)$ is the smallest positive integer of the form $as+bt$.
 ##### Proof:
-Let $S=\{d=as+bt: s,t in ZZ, d>0\}$ and by [[Well ordering principle]] let $d=\operatorname{min}(S)$.
+Let $S=\{d=as+bt: s,t in ZZ, d>0\}$ and by [[Well ordering principle]] let $d=op("min")(S)$.
 - $d$ is a common divisor: 
 	By [[Division algorithm]] there exist unique $q,r in ZZ$ such that $a=qd+r$ with $0 lt.eq r < d$. To show that $r=0$ suppose $r>0$, then$$
 	

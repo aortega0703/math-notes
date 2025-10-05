@@ -10,32 +10,32 @@ related topics:
 A [[Function]] $f:A -> B$ ($A != \emptyset$) is [[Injectivity and surjectivity|Injective]] if and only if it is [[Monic-epic|Monic]].
 ##### Proof:
 - Injective $ ==> $ Monic:
-	Let $g,h: S -> A$ such that $f \circ g = f \circ h$, then$$
+	Let $g,h: S -> A$ such that $f compose g = f compose h$, then$$
 	
-		(f\circ g)(s) &= (f\circ h)(s)\
+		(f compose g)(s) &= (f compose h)(s)\
 		f(g(s)) &= f(h(s))\
 		g(s) &= h(s)
 			&\text{by $f$ injective}\
 		g &= h
 	
-	$$So $f \circ g = f \circ h$ implies $g = h$, making $f$ monic.
+	$$So $f compose g = f compose h$ implies $g = h$, making $f$ monic.
 - Monic $ ==> $ Injective:
 	Let $x,y in A$ and$$
 	
 		\begin{aligned}
 			x': S & -> A\
-			s&\mapsto x
+			s& |-> x
 		\end{aligned}\qquad
 		\begin{aligned}
 			y': S & -> A\
-			s&\mapsto y
+			s& |-> y
 		\end{aligned}
 	
 	$$Let $f(x) = f(y)$, then$$
 	
 		f(x'(s)) &= f(y'(s))\
-		(f \circ x')(s) &= (f \circ y')(s)\
-		f \circ x' &= f \circ y'\
+		(f compose x')(s) &= (f compose y')(s)\
+		f compose x' &= f compose y'\
 		x' &= y'
 			&\text{by $f$ monic}\
 		x'(s) &= y'(s)\

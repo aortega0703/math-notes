@@ -6,11 +6,11 @@ related topics:
   - "[[Cyclic group]]"
   - "[[Order]]"
   - "[[Greatest Common Divisor|GCD]]"
-mathLink: $\langle a^i \rangle = \langle a^j \rangle <==>\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$
+mathLink: $\langle a^i \rangle = \langle a^j \rangle <==>op("gcd")(|a|,i) = op("gcd")(|a|,j)$
 ---
 For a group $G$ and $a in G$
-- $\langle a^i \rangle = \langle a^j \rangle$ if and only if $\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$.
-- $|a^i| = |a^j|$ if and only if $\operatorname{gcd}(|a|,i) = \operatorname{gcd}(|a|,j)$.
+- $\langle a^i \rangle = \langle a^j \rangle$ if and only if $op("gcd")(|a|,i) = op("gcd")(|a|,j)$.
+- $|a^i| = |a^j|$ if and only if $op("gcd")(|a|,i) = op("gcd")(|a|,j)$.
 ##### Proof:
 - $ ==> $:$$
 	
@@ -18,17 +18,17 @@ For a group $G$ and $a in G$
 			&= \langle a^j \rangle\
 		|a^i| 
 			&= |a^j|\
-		\frac{|a|}{\operatorname{gcd}(|a|,i)}
-			&= \frac{|a|}{\operatorname{gcd}(|a|,j)}
+		\frac{|a|}{op("gcd")(|a|,i)}
+			&= \frac{|a|}{op("gcd")(|a|,j)}
 			\tag{1}\
-		\operatorname{gcd}(|a|,i)
-			&= \operatorname{gcd}(|a|,j)
+		op("gcd")(|a|,i)
+			&= op("gcd")(|a|,j)
 	$$$(1)$ by [[Order of power element]].
 - $\impliedby$:$$
 	
-		\operatorname{gcd}(|a|,i) &= \operatorname{gcd}(|a|,j)\
-		a^{\operatorname{gcd}(|a|,i)} &= a^{\operatorname{gcd}(|a|,j)}\
-		\langle a^{\operatorname{gcd}(|a|,i)}\rangle &= \langle a^{\operatorname{gcd}(|a|,j)}\rangle\
+		op("gcd")(|a|,i) &= op("gcd")(|a|,j)\
+		a^{op("gcd")(|a|,i)} &= a^{op("gcd")(|a|,j)}\
+		\langle a^{op("gcd")(|a|,i)}\rangle &= \langle a^{op("gcd")(|a|,j)}\rangle\
 		\langle a^i \rangle &= \langle a^j \rangle
 	 \tag{2}
 	$$$(2)$ by [[Order of power element]].

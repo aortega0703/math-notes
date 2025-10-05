@@ -21,11 +21,11 @@ In [[Integers modulo n (set)]] [[Modular multiplication]] has the following prop
 	$$
 ##### Proof:
 - is commutative:
-	By commutativity of multiplication $ab=ba$, then $(ab)-(ba)=0=0n$. Therefore $ab\equiv ba\ (\operatorname{mod}\ n)$.
+	By commutativity of multiplication $ab=ba$, then $(ab)-(ba)=0=0n$. Therefore $ab\equiv ba\ (op("mod")\ n)$.
 - is associative:
-	By associativity of multiplication $(ab)c=a(bc)$, then $\big((ab)c\big)-\big(a(bc)\big)=0=0n$. Therefore $(ab)c\equiv a(bc)\ (\operatorname{mod}\ n)$.
+	By associativity of multiplication $(ab)c=a(bc)$, then $\big((ab)c\big)-\big(a(bc)\big)=0=0n$. Therefore $(ab)c\equiv a(bc)\ (op("mod")\ n)$.
 - has identity $1$:
-	By identity of multiplication $1a=a$, then $(1a)-a=0=0n$. Therefore $1a\equiv a\ (\operatorname{mod}\ n)$.
+	By identity of multiplication $1a=a$, then $(1a)-a=0=0n$. Therefore $1a\equiv a\ (op("mod")\ n)$.
 - preserves congruence modulo $n$:
 	$$
 	

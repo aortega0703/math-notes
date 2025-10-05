@@ -12,7 +12,7 @@ For sets $A,B$, the [[Set operations|Cartesian product]] $A times B$ is a [[Prod
 Let $X$ be a set with functions $f:X -> A$ and $g:X -> B$. Consider$$
 
 	f times g:X& -> A times B\
-	x &\mapsto \big(f(x),\ g(x)\big)
+	x & |-> \big(f(x),\ g(x)\big)
 
 $$then for $x in X$$$
 

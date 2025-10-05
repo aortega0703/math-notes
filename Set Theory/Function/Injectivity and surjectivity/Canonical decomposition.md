@@ -12,8 +12,8 @@ For a [[Function]] $f:A -> B$ and its [[Kernel]] $\sim$, $f$ decomposes as follo
 ![[Canonical decomposition.png]]
 where $[\cdot]$ is the [[Canonical projection]], $i$ is the [[Inclusion map]], and$$
 
-	\tilde{f} : A/\!\!\sim& arrow.r.tilde \operatorname{Im}f\
-	[a] &\mapsto f(a)
+	\tilde{f} : A/\!\!\sim& arrow.r.tilde Im f\
+	[a] & |-> f(a)
 
 $$is a [[Injectivity and surjectivity|Bijection]].
 ##### Proof:
@@ -30,6 +30,6 @@ $$is a [[Injectivity and surjectivity|Bijection]].
 		$$
 		So $\tilde{f}$ is injective
 	- Surjectivity:
-		Let $b in \operatorname{Im}f$, then by definition of $\operatorname{Im}$, $f(a)=b$ for some $a in A$. So $\tilde{f}[a]=b$ making $\tilde{f}$ surjective.
+		Let $b in Im f$, then by definition of $ Im $, $f(a)=b$ for some $a in A$. So $\tilde{f}[a]=b$ making $\tilde{f}$ surjective.
 - $i\tilde{f}[\cdot]=f$:
-	Let $a in A$, then $a\overset{[\cdot]}{\mapsto}[a]\overset{\tilde{f}}{\mapsto} f(a) \overset{i}{\mapsto} f(a)$ so $i\tilde{f}[\cdot]=f$.
+	Let $a in A$, then $a\overset{[\cdot]}{ |-> }[a]\overset{\tilde{f}}{ |-> } f(a) \overset{i}{ |-> } f(a)$ so $i\tilde{f}[\cdot]=f$.

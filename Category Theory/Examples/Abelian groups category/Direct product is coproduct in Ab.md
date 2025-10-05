@@ -12,11 +12,11 @@ For [[Abelian group|Abelian groups]] $A,B$, their [[Direct product]] $A times B$
 
 	\begin{aligned}
 		\iota_A : A & -> A times B\
-		a &\mapsto (a, e_B)
+		a & |-> (a, e_B)
 	\end{aligned}\qquad
 	\begin{aligned}
 		\iota_B : B & -> A times B\
-		b &\mapsto (e_A, b)
+		b & |-> (e_A, b)
 	\end{aligned}
 
 $$
@@ -26,7 +26,7 @@ $$
 Consider homomorphisms $\phi: A -> X$ and $\psi: B -> X$ and the function$$
 
 	\phi\cdot\psi : A times B & -> X\
-    (a,b) &\mapsto \phi(a)\psi(b)
+    (a,b) & |-> \phi(a)\psi(b)
 
 $$
 

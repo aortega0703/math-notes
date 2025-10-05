@@ -10,9 +10,9 @@ For any $n in ZZ$$$
 $$
 ##### Proof:
 By induction on $n$.
-- $\mathcal{P}(0)$:
+- $cal(P)(0)$:
 	$\sum_{k=1}^0 k=0=\frac{0(0+1)}{2}$.
-- $\mathcal{P}(n) ==> \mathcal{P}(n+1)$:
+- $cal(P)(n) ==> cal(P)(n+1)$:
 	$$
 	
 		\sum_{k=1}^{n+1} k

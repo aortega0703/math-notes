@@ -11,7 +11,7 @@ reference:
 For a [[Set]] $S$ and an [[Equivalence relation]] $\sim$ on $S$, the _canonical projection_$$
 
 	[\cdot]: S &\twoheadrightarrow S/\!\!\sim\
-	s&\mapsto [s]
+	s& |-> [s]
 
 $$that sends an object to its equivalence class is [[Injectivity and surjectivity|Surjective]].
 ##### Proof:

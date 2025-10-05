@@ -7,4 +7,4 @@ related topics:
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
-An _automorphism_ is an [[Isomorphism]] $f$ with $\operatorname{Dom}(f) = \operatorname{Cod}(f)$. The collection of automorphisms of $A$ is denoted $\operatorname{Aut}(A)\subseteq \operatorname{End}(A)$.
+An _automorphism_ is an [[Isomorphism]] $f$ with $op("Dom")(f) = op("Cod")(f)$. The collection of automorphisms of $A$ is denoted $op("Aut")(A) subset.eq op("End")(A)$.

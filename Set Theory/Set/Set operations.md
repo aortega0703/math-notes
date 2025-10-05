@@ -21,13 +21,13 @@ A [[Set]] can be defined via _operations_ on other sets.
 	For sets $S,T$ their union$$
 		S\cup T=\{x\ |\ x in S \lor x in T\}
 	$$is the set whose elements are in either $S$ or $T$ (or possibly both). This generalizes for a family of sets $T$ as$$
-		\bigcup_{S in T} S = \{s\ |\ \exists S in T.s in S\}
+		\bigcup_{S in T} S = \{s\ |\ exists S in T.s in S\}
 	$$for the set whose elements are in any of the elements of $T$.
 - Intersection:
 	For sets $S,T$ their intersection$$
 		S\cap T = \{x\ |\ x in S \land x in T\}
 	$$is the set whose elements are in both $S$ and $T$. This generalizes for a family of sets $T$ as$$
-		\bigcap_{S in T} S=\{s\ |\ \forall S in T. s in S\}
+		\bigcap_{S in T} S=\{s\ |\ forall S in T. s in S\}
 	$$for the set whose elements are in all of the elements of $T$. Sets are said to be _disjoint_ when their intersection is the [[Set|Empty set]].
 - Difference:
 	For sets $S,T$ their difference$$

@@ -9,14 +9,14 @@ related topics:
 For $1 lt.eq d lt.eq n$, there is some $\sigma in S_n$ with [[Order]] $d$.
 ##### Proof:
 By induction on $n$.
-- $\mathcal{P}(1)$:
+- $cal(P)(1)$:
 	$e in S_1$ by definition of [[Group]], and $|e|=1$.
-- $\mathcal{P}(n) ==> \mathcal{P}(n+1)$:
+- $cal(P)(n) ==> cal(P)(n+1)$:
 	- Case $d lt.eq n$:
 		By induction there is some $\sigma in S_n$ such that $|\sigma|=d$, consider$$
 		
 			\sigma': ZZ/(n+1) ZZ & -> ZZ/(n+1) ZZ\
-			s &\mapsto
+			s & |-> 
 			\begin{cases}
 				\sigma(s) &\text{if $s lt.eq n$}\
 				n+1 &\text{if $s=n+1$}
@@ -37,7 +37,7 @@ By induction on $n$.
 		Consider$$
 		
 			\sigma: ZZ/(n+1) ZZ & -> ZZ/(n+1) ZZ\
-			s &\mapsto
+			s & |-> 
 			\begin{cases}
 				s+1 &\text{if $s lt.eq n$}\
 				1 &\text{if $s=n+1$}

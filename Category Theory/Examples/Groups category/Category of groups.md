@@ -11,11 +11,11 @@ reference:
 The [[Category]] of [[Group|groups]] $\mathbf{Grp}$ is defined by
 - $\text{Obj}(\mathbf{Grp})=$ the collection of all groups.
 - $\text{Hom}_\mathbf{Grp}(G,H)=$ the collection of [[Group homomorphism|group homomorphisms]] $G -> H$.
-- $\circ=$ [[Function|Function composition]].
+- $ compose =$ [[Function|Function composition]].
 ---
 This data does describe a [[Category]].
 ##### Proof:
-- Closed under $\circ$:
+- Closed under $ compose $:
 	Let $G\overset{\phi}{ -> } H\overset{\psi}{ -> } K$ be [[Group homomorphism|group homomorphisms]]. This gives the following diagram
 	![[Grp composition.png]]
 	As the inner squares commute so does the outer rectangle. Then $\mathbf{Grp}$ is closed under composition.

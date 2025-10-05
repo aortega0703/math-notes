@@ -8,7 +8,7 @@ related topics:
   - "[[Fiber product]]"
 ---
 For [[Abelian group|Abelian groups]] $A,B$, their [[Fiber product]]$$
-	A times_S B = \{(a,b)\ |\ \phi(a)=\psi(b),\ a in A,\ b in B\}\subseteq A times B
+	A times_S B = \{(a,b)\ |\ \phi(a)=\psi(b),\ a in A,\ b in B\} subset.eq A times B
 $$
 with composition and projections from $A times B$ is also an Abelian group.
 ##### Proof:
@@ -40,11 +40,11 @@ with composition and projections from $A times B$ is also an Abelian group.
 		So $(a^{-1},b^{-1})=(a,b)^{-1} in A times_S B$.
 	Then $A times_S B$ is a group.
 - $A times_S B$ is [[Abelian group|Abelian]]:
-	By [[Product of abelian groups is abelian]] $A times B$ is abelian, and $A times_S B\subseteq A times B$ so it is also Abelian.
+	By [[Product of abelian groups is abelian]] $A times B$ is abelian, and $A times_S B subset.eq A times B$ so it is also Abelian.
 Let$$
 
 	f times g: X& -> A times_S B\
-	x&\mapsto (f(x),g(x))
+	x& |-> (f(x),g(x))
 
 $$
  - $f times g$ is an [[Group homomorphism]]:

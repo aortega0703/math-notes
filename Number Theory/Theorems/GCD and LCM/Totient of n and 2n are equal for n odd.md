@@ -32,7 +32,7 @@ For any odd $n > 0 in ZZ$, $\phi(2n) = \phi(n)$.
 		&= 1
 	
 	$$Then $\gcd(\frac{r+n}{2} , n) = 1$.
-- $[m]_n \overset{f}{\mapsto} [2m + n]_{2n}$ is a bijection:
+- $[m]_n \overset{f}{ |-> } [2m + n]_{2n}$ is a bijection:
 	- $f;\!f^{-1}=\text{id}_{\mathbb({Z}/n ZZ)^*}$:
 		Let $m in\mathbb({Z}/n ZZ)^*$, then $(f;\!f^{-1})(m)\equiv f^{-1}(2m+n)\equiv\frac{2m+n+n}{2}\equiv m+n\equiv m\ (\text{mod }n)$.
 	- $f^{-1};\!f=\text{id}_{\mathbb({Z}/2n ZZ)^*}$:

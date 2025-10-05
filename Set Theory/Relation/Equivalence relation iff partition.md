@@ -10,12 +10,12 @@ For any [[Equivalence relation|equivalence relation]] $\sim$ on a [[Set|set]] $S
 ##### Proof:
 - Equivalence relation $ ==> $ partition:
 	- ${\displaystyle\bigcup_{a in S}} \overline{a}=S$:
-		$a in \overline{a}\subseteq S$ for all $a in S$, then $\overline{a} != \emptyset$ and ${\bigcup_{a in S}} \overline{a}=S$.
+		$a in \overline{a} subset.eq S$ for all $a in S$, then $\overline{a} != \emptyset$ and ${\bigcup_{a in S}} \overline{a}=S$.
 	- $\overline{a}\cap \overline{b} !=\emptyset$ implies $\overline{a}= \overline{b}$:
 		Let $c in a\cap b$, then $a\sim c$ and $b\sim c$, therefore $a\sim b$
-		- $\overline{a} \subseteq \overline{b}$:
+		- $\overline{a} subset.eq \overline{b}$:
 			Let $a' in \overline{a}$, then $a'\sim a$, so $a'\sim b$ and $a' in \overline{b}$.
-		- $\overline{b} \subseteq \overline{a}$:
+		- $\overline{b} subset.eq \overline{a}$:
 			Let $b' in \overline{b}$, then $b'\sim b$, so $b'\sim a$ and $b' in \overline{a}$.
 		This implies $\overline{a}=\overline{b}$.
 - $\impliedby$:

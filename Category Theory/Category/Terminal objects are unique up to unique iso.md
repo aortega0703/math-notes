@@ -6,7 +6,7 @@ related topics:
   - "[[Initial-final object|Terminal object]]"
   - "[[Isomorphism]]"
 ---
-In a [[Category]] $\mathcal{C}$, for objects $A,B$
+In a [[Category]] $cal(C)$, for objects $A,B$
 - If $A$ and $B$ are [[Initial-final object|Initial objects]], then $A\cong B$ and the isomorphism $A arrow.r.tilde B$ is unique.
 - If $A$ and $B$ are [[Initial-final object|Final objects]], then $A\cong B$ and the isomorphism $A arrow.r.tilde B$ is unique.
 ##### Proof:

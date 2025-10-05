@@ -16,16 +16,16 @@ Enumerate the elements of $A$ as $a_1, a_2, \dots, a_{|A|}$. The proof proceeds 
 	Let$$
 	
 		f_k: \{a_1\} & -> B\
-		a &\mapsto b_k
+		a & |-> b_k
 	
 	$$where $1 lt.eq k lt.eq |B|$. There are clearly $|B|$ such functions so $|B^{\{a_1\}}|=|B|= |B|^1=|B|^{\{a_1\}}$.
 - Case $n+1$:
 	Let $f:\{a_1,a_2,\dots, a_n\} -> B$ and$$
 	
 		g_k: \{a_1, a_2, \dots, a_n, a_{n+1}\} & -> B\
-		a &\mapsto
+		a & |-> 
 		\begin{cases}
-			f(a) &\text{if $a in\operatorname{Dom} f$}\
+			f(a) &\text{if $a inop("Dom") f$}\
 			b_k &\text{otherwise}
 		\end{cases}
 	

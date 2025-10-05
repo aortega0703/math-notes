@@ -7,8 +7,8 @@ related topics:
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
-A [[Category|categories]] $\mathcal{C}$ and $\mathcal{C}'$, $\mathcal{C}'$ is a _subcategory_ of $\mathcal{C}$ if
-- $\operatorname{Obj}(\mathcal{C}')\subseteq\operatorname{Obj}{\mathcal{C}}$.
-- For all $A,B in \operatorname{Obj}(\mathcal{C}')$, $\operatorname{Hom}_{\mathcal{C}'}(A,B) \subseteq \operatorname{Hom}_{\mathcal{C}}(A,B)$.
-- Shares identities and composition with $\mathcal{C}$.
-A subcategory is _full_ when for all $A,B in \operatorname{Obj}(\mathcal{C}')$, $\operatorname{Hom}_{\mathcal{C}'}(A,B) = \operatorname{Hom}_{\mathcal{C}}(A,B)$.
+A [[Category|categories]] $cal(C)$ and $cal(C)'$, $cal(C)'$ is a _subcategory_ of $cal(C)$ if
+- $op("Obj")(cal(C)') subset.eq op("Obj"){cal(C)}$.
+- For all $A,B in op("Obj")(cal(C)')$, $op("Hom")_{cal(C)'}(A,B) subset.eq op("Hom")_{cal(C)}(A,B)$.
+- Shares identities and composition with $cal(C)$.
+A subcategory is _full_ when for all $A,B in op("Obj")(cal(C)')$, $op("Hom")_{cal(C)'}(A,B) = op("Hom")_{cal(C)}(A,B)$.

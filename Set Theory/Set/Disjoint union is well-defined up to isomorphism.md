@@ -11,7 +11,7 @@ If $A' \cong A''$ and $B' \cong B''$, and $A'\cap B' = \emptyset$ and $A''\cap B
 As $A' \cong A''$ and $B' \cong B''$ let $f_A: A' arrow.r.tilde A''$ and $f_B: B' arrow.r.tilde B''$ be their corresponding bijections. Let$$
 
 	f: A'\cup B' & arrow.r.tilde A'' \cup B''\
-	s &\mapsto
+	s & |-> 
 	\begin{cases}
 		f_A(s) &\text{if $s in A'$}\
 		f_B(s) &\text{if $s in B'$}

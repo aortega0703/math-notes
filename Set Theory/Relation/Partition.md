@@ -10,7 +10,7 @@ reference:
 ---
 A _partition_ of a [[Set]] $S$ is a collection $P$ such that its elements
 - Nonempty subsets of $S$:
-	For all $p in P$, $p in P ==> p\subseteq S\land p != \emptyset$.
+	For all $p in P$, $p in P ==> p subset.eq S\land p != \emptyset$.
 - Cover $S$:
 	$\displaystyle\bigcup_{p in P} p = S$
 - Are disjoint:

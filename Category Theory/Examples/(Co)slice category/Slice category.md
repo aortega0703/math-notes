@@ -8,27 +8,27 @@ related topics:
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
-For a [[Category]] $\mathcal{C}$ and an object $A in \operatorname{ob}(\mathcal{C})$, the _slice category_ (or sometimes _over category_) $\mathcal{C}/A$ is defined by the data
+For a [[Category]] $cal(C)$ and an object $A in op("ob")(cal(C))$, the _slice category_ (or sometimes _over category_) $cal(C)/A$ is defined by the data
 - Objects:
-	$$\displaystyle\operatorname{obj}(\mathcal{C}/A) = \bigcup_{S in\operatorname{obj}(\mathcal{C})} \operatorname{Hom}_\mathcal{C}(S, A)$$
-	morphisms in $\mathcal{C}$ into $A$ 
+	$$\displaystyleop("obj")(cal(C)/A) = \bigcup_{S inop("obj")(cal(C))} op("Hom")_cal(C)(S, A)$$
+	morphisms in $cal(C)$ into $A$ 
 - Morphisms:
-	$$\operatorname{Hom}_{\mathcal{C}/A}(f : B -> A,\ g: C -> A) = \{\alpha in \operatorname{Hom}_{\mathcal{C}}(B, C)\ |\ f = g\alpha\}$$
-	morphisms $\alpha$ in $\mathcal{C}$ such that the following commutes
+	$$op("Hom")_{cal(C)/A}(f : B -> A,\ g: C -> A) = \{\alpha in op("Hom")_{cal(C)}(B, C)\ |\ f = g\alpha\}$$
+	morphisms $\alpha$ in $cal(C)$ such that the following commutes
 	![[Slice category definition.png]]
 - Composition as usual.
 The [[Opposite category|Dual]] notion is [[Coslice category]].
 ---
 This data does describe a category.
 ##### Proof:
-Let $f,g,h,i in\operatorname{obj}(\mathcal{C}/A)$ and $f\overset{\alpha}{ -> }g\overset{\beta}{ -> }h\overset{\gamma}{ -> }i$, in $\mathcal{C}$ as
+Let $f,g,h,i inop("obj")(cal(C)/A)$ and $f\overset{\alpha}{ -> }g\overset{\beta}{ -> }h\overset{\gamma}{ -> }i$, in $cal(C)$ as
 ![[Slice category proof.png]]
 - Identity:
-	Consider $\operatorname{id}_B: B -> B$ in $\mathcal{C}$, $f=f\operatorname{id}_B$ by [[Identity function is unital]] so $\operatorname{id}_B:f -> f$ in $\mathcal{C}/A$.
+	Consider $op("id")_B: B -> B$ in $cal(C)$, $f=fop("id")_B$ by [[Identity function is unital]] so $op("id")_B:f -> f$ in $cal(C)/A$.
 - Composition:
-	By definition $f=g\alpha$ and $g=h\beta$. Then $f=(h\beta)\alpha=h(\beta\alpha)$, so $\beta\alpha:f -> g$ in $\mathcal{C}/A$.
+	By definition $f=g\alpha$ and $g=h\beta$. Then $f=(h\beta)\alpha=h(\beta\alpha)$, so $\beta\alpha:f -> g$ in $cal(C)/A$.
 - Unitality:
-	$\operatorname{id}_C \alpha = \alpha$ and $\beta\operatorname{id}_C=\beta$ by [[Identity function is unital]].
+	$op("id")_C \alpha = \alpha$ and $\betaop("id")_C=\beta$ by [[Identity function is unital]].
 - Associativity:
 	$(\gamma\beta)\alpha = \gamma(\beta\alpha)$ by [[Function composition is associative]].
-Then $\mathcal{C}/A$ is a category.
+Then $cal(C)/A$ is a category.

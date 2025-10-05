@@ -5,9 +5,9 @@ tags:
 related topics:
   - "[[Least common multiple|LCM]]"
   - "[[Greatest Common Divisor|GCD]]"
-mathLink: $ab=\gcd(a,b)\operatorname{lcm}(a,b)$
+mathLink: $ab=\gcd(a,b)op("lcm")(a,b)$
 ---
-For positive $a,b in ZZ$, $ab=\gcd(a,b)\operatorname{lcm}(a,b)$.
+For positive $a,b in ZZ$, $ab=\gcd(a,b)op("lcm")(a,b)$.
 ##### Proof:
 Let $a=a'\gcd(a,b)$ and $b=b'\gcd(a,b)$, then $\gcd(a,b)$ divides $ab$ trivially. Then for some $q in ZZ$$$
 
@@ -33,4 +33,4 @@ $$So $q$ is a multiple of $a$ and $b$. Now let $m$ be another multiple of $a$ an
 	ab' & lt.eq ac\
 	q & lt.eq m
 
-$$Where $(1)$ is by [[Euclid's lemma]] and [[GCD Factors Into Relative Primes]]. Therefore $q=\operatorname{lcm}(a,b)$.
+$$Where $(1)$ is by [[Euclid's lemma]] and [[GCD Factors Into Relative Primes]]. Therefore $q=op("lcm")(a,b)$.

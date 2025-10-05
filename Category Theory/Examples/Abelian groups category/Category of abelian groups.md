@@ -13,7 +13,7 @@ reference:
 The [[Category]] of [[Abelian group|Abelian groups]] $\mathbf{Ab}$ is defined by
 - $\text{Obj}(\mathbf{Ab})=$ the collection of Abelian groups.
 - $\text{Hom}_\mathbf{Ab}(G,H)=$ the collection of [[Group homomorphism|group homomorphisms]] $G -> H$.
-- $\circ=$ [[Function|Function composition]].
+- $ compose =$ [[Function|Function composition]].
 ---
 This data does describe a category.
 ##### Proof:

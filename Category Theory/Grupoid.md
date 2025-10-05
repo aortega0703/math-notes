@@ -8,4 +8,4 @@ related topics:
 reference:
   - "Aluffi, P. (2009). Algebra: Chapter 0"
 ---
-A [[Category]] $\mathcal{C}$ is a _grupoid_ when every morphism in it is an [[Isomorphism]].
+A [[Category]] $cal(C)$ is a _grupoid_ when every morphism in it is an [[Isomorphism]].

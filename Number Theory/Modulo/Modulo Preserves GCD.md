@@ -5,7 +5,7 @@ tags:
 related topics:
   - "[[Greatest Common Divisor|GCD]]"
   - "[[Division|Modulo]]"
-mathLink: $\gcd(a,n) = \gcd(a\ \operatorname{mod}\ n,\ n)$
+mathLink: $\gcd(a,n) = \gcd(a\ op("mod")\ n,\ n)$
 ---
 For all $a,b,n in ZZ$
 $$

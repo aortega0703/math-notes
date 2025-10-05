@@ -6,6 +6,6 @@ related topics:
   - "[[Category|Identity morphism]]"
   - "[[Isomorphism]]"
 ---
-Every [[Category|Identity morphism]] $\operatorname{id}_A:A -> A$ is an [[Isomorphism]] with itself as its inverse.
+Every [[Category|Identity morphism]] $op("id")_A:A -> A$ is an [[Isomorphism]] with itself as its inverse.
 ##### Proof:
-$\operatorname{id}_A \operatorname{id}_A = \operatorname{id}_A$, so it is its own left and right inverse, and therefore an isomorphism.
+$op("id")_A op("id")_A = op("id")_A$, so it is its own left and right inverse, and therefore an isomorphism.

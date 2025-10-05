@@ -6,7 +6,7 @@ tags:
   - theorem
   - math/abstract_algebra
 ---
-For a [[Group]] $G$ and $H\subseteq G$ non-empty and finite, $H$ is a [[Subgroup]] of $G$ if and only if $H$ is closed under $\cdot$.
+For a [[Group]] $G$ and $H subset.eq G$ non-empty and finite, $H$ is a [[Subgroup]] of $G$ if and only if $H$ is closed under $\cdot$.
 ##### Proof:
 - $ ==> $:
 	By hypothesis $H$ is a group so it is closed under $\cdot$.

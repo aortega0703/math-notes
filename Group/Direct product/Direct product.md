@@ -12,7 +12,7 @@ reference:
 For groups $G,H$ their _direct product_ is a group on the [[Set]] $G times H$ with the operation$$
 
 	\cdot: (G times H) times(G times H) & -> (G times H)\
-	\big((g_1,h_1),\ (g_2,h_2)\big) &\mapsto (g_1 g_2, h_1 h_2)
+	\big((g_1,h_1),\ (g_2,h_2)\big) & |-> (g_1 g_2, h_1 h_2)
 
 $$
 ---

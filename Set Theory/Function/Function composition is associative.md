@@ -5,15 +5,15 @@ tags:
 related topics:
   - "[[Function]]"
 ---
-For [[Function|functions]] $A \overset{f}{ -> } B \overset{g}{ -> } C \overset{h}{ -> } D$, $h\circ(g\circ f)= (h\circ g)\circ f$ (function composition is associative). i.e. the following commutes
+For [[Function|functions]] $A \overset{f}{ -> } B \overset{g}{ -> } C \overset{h}{ -> } D$, $h compose (g compose f)= (h compose g) compose f$ (function composition is associative). i.e. the following commutes
 ![[Function composition associative.png]]
 ##### Proof:
 Let $a in A$, then$$
 
-	\big(h\circ(g\circ f)\big)(a) 
-		&= h\big((g\circ f)(a)\big)\
+	\big(h compose (g compose f)\big)(a) 
+		&= h\big((g compose f)(a)\big)\
 		&= h\big(g(f(a))\big)\
-		&= (h\circ g)(f(a))\
-		&= ((h\circ g)\circ f)(a)
+		&= (h compose g)(f(a))\
+		&= ((h compose g) compose f)(a)
 
-$$So $h\circ(g\circ f)= (h\circ g)\circ f$.
+$$So $h compose (g compose f)= (h compose g) compose f$.
